@@ -259,6 +259,39 @@ class Customer:
             else:
                 return '100k+'
 
+    def generate_education(self, job=None):
+        if job in ['Physician', 'Pharmacist', 'Lawyer', 'Professor']:
+            # Strictly required advanced/doctoral degrees
+            return 'bachelor_plus'
+        elif job in ['Registered Nurse', 'Software Engineer', 'Investment Banker', 'Financial Analyst', 'Accountant', 'Auditor', 'Teacher', 'Civil Servant']:
+            # Bachelor's or Associate's/Nursing degree required: 0% hs_or_less
+            r = random.random()
+            return 'bachelor_plus' if r < 0.85 else 'some_college'
+        elif job in ['Retail Manager', 'Electrician', 'Plumber', 'Chef', 'Mechanic']:
+            r = random.random()
+            if r < 0.50:
+                return 'some_college'
+            elif r < 0.80:
+                return 'hs_or_less'
+            else:
+                return 'bachelor_plus'
+        elif job in ['Sales Associate', 'Driver', 'Unemployed']:
+            r = random.random()
+            if r < 0.60:
+                return 'hs_or_less'
+            elif r < 0.90:
+                return 'some_college'
+            else:
+                return 'bachelor_plus'
+        else:
+            # Retired / default
+            r = random.random()
+            if r < 0.40:
+                return 'bachelor_plus'
+            elif r < 0.75:
+                return 'some_college'
+            else:
+                return 'hs_or_less'
     # find nearest city
     def get_random_location(self):
         """
