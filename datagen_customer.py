@@ -302,25 +302,30 @@ class Customer:
             return 'never_married'
         else:
             return 'formerly_married'
-            
+
     # find nearest city
     def get_random_location(self):
-        """
-        Assumes lst is sorted. Returns closest value to num.
-        """
+        r = random.random()
+        if r < 0.20:
+            bucket = cities['low']
+        elif r < 0.70:
+            bucket = cities['mid']
+        else:
+            bucket = cities['high']
+
         num = random.random()
-        lst = list(cities.keys())
+        lst = sorted(bucket.keys())
         pos = bisect_left(lst, num)
         if pos == 0:
-            return cities[lst[0]]
-        if pos == len(cities):
-            return cities[lst[-1]]
+            return bucket[lst[0]]
+        if pos == len(lst):
+            return bucket[lst[-1]]
         before = lst[pos - 1]
         after = lst[pos]
         if after - num < num - before:
-            return cities[after]
+            return bucket[after]
         else:
-            return cities[before]
+            return bucket[before]
 
     def find_profile(self):
         city_pop = float(self.addy[-1])
