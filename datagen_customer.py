@@ -79,9 +79,10 @@ class Customer:
     'Randomly generates all the attributes for a customer'
 
     def __init__(self, config, seed_num=None):
-        self.fake = Faker()
+        self.fake = Faker('en_US')
         if seed_num is not None:
             Faker.seed(seed_num)
+            random.seed(seed_num)
         # turn all profiles into dicts to work with
         self.all_profiles = MainConfig(config).config
 
