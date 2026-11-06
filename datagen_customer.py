@@ -32,12 +32,36 @@ headers = [
 
 
 def make_cities():
-    cities = {}
+    cities_low = {}   # < 50k
+    cities_mid = {}   # 50k - 500k
+    cities_high = {}  # > 500k
+
     with open('./demographic_data/locations_partitions.csv', 'r') as f:
-        for line in f.readlines()[1:]:
-            cdf, output = line.strip().split(',')
-            cities[float(cdf)] = output.split('|')
-        return cities
+        lines = f.readlines()[1:]
+        tot = len(lines)
+        for i, line in enumerate(lines):
+            output = line.strip().split(',')[1].split('|')
+            pop = float(output[-1])
+            cdf = (i + 1) / float(tot)
+            if pop < 50000:
+                cities_low[cdf] = output
+            elif pop <= 500000:
+                cities_mid[cdf] = output
+            else:
+                cities_high[cdf] = output
+
+    # In case any bucket is empty, fallback to all
+    all_cities = {}
+    for i, line in enumerate(lines):
+        output = line.strip().split(',')[1].split('|')
+        cdf = (i + 1) / float(tot)
+        all_cities[cdf] = output
+
+    return {
+        'low': cities_low if cities_low else all_cities,
+        'mid': cities_mid if cities_mid else all_cities,
+        'high': cities_high if cities_high else all_cities
+    }
 
 
 def make_age_gender_dict():
