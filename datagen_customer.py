@@ -185,6 +185,20 @@ class Customer:
 
         return gender, dob.strftime("%Y-%m-%d"), age
 
+    def generate_job(self):
+        # professional_finance (13%), healthcare_ed_gov (19%), service_trade (27%), retired (21%), unemployed (20%)
+        r = random.random()
+        if r < 0.13:
+            return random.choice(['Financial Analyst', 'Accountant', 'Software Engineer', 'Lawyer', 'Auditor', 'Investment Banker'])
+        elif r < 0.32:
+            return random.choice(['Registered Nurse', 'Teacher', 'Physician', 'Civil Servant', 'Professor', 'Pharmacist'])
+        elif r < 0.59:
+            return random.choice(['Retail Manager', 'Electrician', 'Chef', 'Mechanic', 'Plumber', 'Sales Associate', 'Driver'])
+        elif r < 0.80:
+            return 'Retired'
+        else:
+            return 'Unemployed'
+
     # find nearest city
     def get_random_location(self):
         """
