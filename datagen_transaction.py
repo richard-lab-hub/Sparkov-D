@@ -37,7 +37,9 @@ with open('data/merchants.csv', 'r') as merchants_file:
     for row in csv_reader:
         if merchants.get(row[0]) is None:
             merchants[row[0]] = []
-        merchants[row[0]].append(row[1])
+        mcc = row[2] if len(row) > 2 else '5999'
+        msize = row[3] if len(row) > 3 else 'small'
+        merchants[row[0]].append((row[1], mcc, msize))
 
 
 class Customer:
