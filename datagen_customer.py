@@ -199,6 +199,66 @@ class Customer:
         else:
             return 'Unemployed'
 
+    def generate_income_band(self, job=None):
+        if job in ['Physician', 'Lawyer', 'Software Engineer', 'Investment Banker']:
+            # High income: 100k+ (85%), 50-100k (15%)
+            r = random.random()
+            return '100k+' if r < 0.85 else '50-100k'
+        elif job in ['Registered Nurse', 'Pharmacist', 'Financial Analyst', 'Accountant', 'Auditor', 'Professor']:
+            # Upper mid: 100k+ (60%), 50-100k (35%), <50k (5%)
+            r = random.random()
+            if r < 0.60:
+                return '100k+'
+            elif r < 0.95:
+                return '50-100k'
+            else:
+                return '<50k'
+        elif job in ['Teacher', 'Civil Servant']:
+            # Mid income: 50-100k (65%), <50k (20%), 100k+ (15%)
+            r = random.random()
+            if r < 0.65:
+                return '50-100k'
+            elif r < 0.85:
+                return '<50k'
+            else:
+                return '100k+'
+        elif job in ['Retail Manager', 'Electrician', 'Plumber']:
+            # Lower mid income: 50-100k (55%), <50k (30%), 100k+ (15%)
+            r = random.random()
+            if r < 0.55:
+                return '50-100k'
+            elif r < 0.85:
+                return '<50k'
+            else:
+                return '100k+'
+        elif job in ['Chef', 'Mechanic', 'Sales Associate', 'Driver']:
+            # Lower income: <50k (60%), 50-100k (30%), 100k+ (10%)
+            r = random.random()
+            if r < 0.60:
+                return '<50k'
+            elif r < 0.90:
+                return '50-100k'
+            else:
+                return '100k+'
+        elif job == 'Unemployed':
+            # Unemployed: <50k (85%), 50-100k (13%), 100k+ (2%)
+            r = random.random()
+            if r < 0.85:
+                return '<50k'
+            elif r < 0.98:
+                return '50-100k'
+            else:
+                return '100k+'
+        else:
+            # Retired or default: <50k (35%), 50-100k (35%), 100k+ (30%)
+            r = random.random()
+            if r < 0.35:
+                return '<50k'
+            elif r < 0.70:
+                return '50-100k'
+            else:
+                return '100k+'
+
     # find nearest city
     def get_random_location(self):
         """
