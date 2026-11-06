@@ -292,6 +292,17 @@ class Customer:
                 return 'some_college'
             else:
                 return 'hs_or_less'
+
+    def generate_marital_status(self):
+        # married (50.0%), never_married (33.0%), formerly_married (17.0%)
+        r = random.random()
+        if r < 0.50:
+            return 'married'
+        elif r < 0.83:
+            return 'never_married'
+        else:
+            return 'formerly_married'
+            
     # find nearest city
     def get_random_location(self):
         """
