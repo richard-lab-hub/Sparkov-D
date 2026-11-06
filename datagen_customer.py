@@ -164,23 +164,26 @@ class Customer:
         else:
             return self.fake.first_name_female()
 
-    def generate_age_gender(self):
-        n = random.random()
-        g_a = age_gender[min([a for a in age_gender if a > n])]
+  def generate_age_gender(self):
+        # Gender: M (49%), F (51%)
+        gender = 'M' if random.random() < 0.49 else 'F'
 
-        while True:
-            age = int(g_a[1])
-            today = date.today()
-            try:
-                rand_date = self.fake.date_time_this_century()
-                # find birthyear, which is today's year - age - 1 if today's month,day is smaller than dob month,day
-                birth_year = today.year - age - ((today.month, today.day) < (rand_date.month, rand_date.day))
-                dob = rand_date.replace(year=birth_year)
+        # DOB / Age distribution: 18-34 (29%), 35-59 (40%), 60+ (31%)
+        r = random.random()
+        if r < 0.29:
+            age = random.randint(18, 34)
+        elif r < 0.69:
+            age = random.randint(35, 59)
+        else:
+            age = random.randint(60, 85)
 
-                # return first letter of gender, dob and age
-                return g_a[0][0], dob.strftime("%Y-%m-%d"), age
-            except:
-                pass
+        today = date.today()
+        birth_year = today.year - age
+        month = random.randint(1, 12)
+        day = random.randint(1, 28)
+        dob = date(birth_year, month, day)
+
+        return gender, dob.strftime("%Y-%m-%d"), age
 
     # find nearest city
     def get_random_location(self):
