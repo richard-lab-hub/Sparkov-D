@@ -24,7 +24,10 @@ headers = [
     'job', 
     'dob', 
     'acct_num', 
-    'profile'
+    'profile',
+    'income_band',
+    'education',
+    'marital_status'
 ]
 
 
