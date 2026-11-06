@@ -124,6 +124,7 @@ class Customer:
             last = self.fake.last_name()
 
         return first, last
+
     def generate_customer(self):
         self.gender, self.dob, self.age = self.generate_age_gender()
         self.addy = self.get_random_location()
@@ -141,6 +142,21 @@ class Customer:
             self.find_profile()
         ]
         return customer_data
+
+    def generate_cc_num(self):
+        # visa_mc (86%), amex (8%), discover (6%)
+        r = random.random()
+        if r < 0.86:
+            if random.random() < 0.5:
+                return '4' + ''.join([str(random.randint(0, 9)) for _ in range(15)])
+            else:
+                prefix = str(random.randint(51, 55))
+                return prefix + ''.join([str(random.randint(0, 9)) for _ in range(14)])
+        elif r < 0.94:
+            prefix = random.choice(['34', '37'])
+            return prefix + ''.join([str(random.randint(0, 9)) for _ in range(13)])
+        else:
+            return '6011' + ''.join([str(random.randint(0, 9)) for _ in range(12)])
 
     def get_first_name(self):
         if self.gender == 'M':
