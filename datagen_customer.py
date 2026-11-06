@@ -164,7 +164,7 @@ class Customer:
         else:
             return self.fake.first_name_female()
 
-  def generate_age_gender(self):
+    def generate_age_gender(self):
         # Gender: M (49%), F (51%)
         gender = 'M' if random.random() < 0.49 else 'F'
 
