@@ -22,7 +22,10 @@ transaction_headers = [
     'is_fraud', 
     'merchant', 
     'merch_lat', 
-    'merch_long'
+    'merch_long',
+    'mcc',
+    'merchant_size',
+    'transaction_velocity'
 ]
 
 # read this only once / built a map of merchant per category for easy lookup
