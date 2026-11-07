@@ -1,801 +1,1040 @@
-category|merchant_name
-gas_transport|fraud_Tillman, Dickinson and Labadie
-gas_transport|fraud_Kuvalis Ltd
-gas_transport|fraud_Robel, Cummerata and Prosacco
-gas_transport|fraud_Bernhard Inc
-gas_transport|fraud_Kling Inc
-gas_transport|fraud_Rodriguez Group
-gas_transport|fraud_Brekke and Sons
-gas_transport|fraud_Raynor, Reinger and Hagenes
-gas_transport|fraud_Erdman-Kertzmann
-gas_transport|fraud_Bartoletti-Wunsch
-gas_transport|fraud_Schaefer, Maggio and Daugherty
-gas_transport|fraud_Streich, Hansen and Veum
-gas_transport|fraud_Friesen-D'Amore
-gas_transport|fraud_Parisian and Sons
-gas_transport|fraud_Schaefer, McGlynn and Bosco
-gas_transport|fraud_Reilly, Heaney and Cole
-gas_transport|fraud_Bins-Rice
-gas_transport|fraud_Prohaska-Murray
-gas_transport|fraud_Kutch LLC
-gas_transport|fraud_Corwin-Collins
-gas_transport|fraud_Sporer Inc
-gas_transport|fraud_Heller-Langosh
-gas_transport|fraud_Torp-Labadie
-gas_transport|fraud_Eichmann, Bogan and Rodriguez
-gas_transport|fraud_Stroman, Hudson and Erdman
-gas_transport|fraud_Cummings LLC
-gas_transport|fraud_Greenholt, Jacobi and Gleason
-gas_transport|fraud_Mraz-Herzog
-gas_transport|fraud_Olson, Becker and Koch
-gas_transport|fraud_Raynor, Feest and Miller
-gas_transport|fraud_Ledner-Pfannerstill
-gas_transport|fraud_Cummerata-Jones
-gas_transport|fraud_Emard Inc
-gas_transport|fraud_Luettgen PLC
-gas_transport|fraud_Huels-Nolan
-gas_transport|fraud_Zieme, Bode and Dooley
-gas_transport|fraud_Conroy-Cruickshank
-gas_transport|fraud_Harber Inc
-gas_transport|fraud_Koss and Sons
-gas_transport|fraud_Kutch, Hermiston and Farrell
-gas_transport|fraud_Huels-Hahn
-gas_transport|fraud_Harris Inc
-gas_transport|fraud_Connelly, Reichert and Fritsch
-gas_transport|fraud_Lind, Huel and McClure
-gas_transport|fraud_Schmitt Inc
-gas_transport|fraud_Marks Inc
-gas_transport|fraud_Berge LLC
-gas_transport|fraud_Christiansen, Goyette and Schamberger
-gas_transport|fraud_Friesen-Stamm
-gas_transport|fraud_Jenkins, Hauck and Friesen
-grocery_net|fraud_Hills-Olson
-grocery_net|fraud_VonRueden Group
-grocery_net|fraud_Murray Ltd
-grocery_net|fraud_Bernier, Streich and Jewess
-grocery_net|fraud_Kohler, Lindgren and Koelpin
-grocery_net|fraud_Harris, Gusikowski and Heaney
-grocery_net|fraud_Wiegand-Lowe
-grocery_net|fraud_Ortiz Group
-grocery_net|fraud_Paucek-Wiza
-grocery_net|fraud_Roob LLC
-grocery_net|fraud_Bahringer-Larson
-grocery_net|fraud_McCullough Group
-grocery_net|fraud_Shields Inc
-grocery_net|fraud_Swaniawski, Bahringer and Ledner
-grocery_net|fraud_Collier Inc
-grocery_net|fraud_Adams, Kovacek and Kuhlman
-grocery_net|fraud_Dach-Borer
-grocery_net|fraud_Cassin-Harvey
-grocery_net|fraud_Hintz-Bruen
-grocery_net|fraud_Johnston, Nikolaus and Maggio
-grocery_net|fraud_Smitham-Boehm
-grocery_net|fraud_Kutch-Hegmann
-grocery_net|fraud_Spinka-Welch
-grocery_net|fraud_Wuckert-Walter
-grocery_net|fraud_Towne, Walker and Borer
-grocery_net|fraud_Spinka Inc
-grocery_net|fraud_Kutch Group
-grocery_net|fraud_Rutherford, Homenick and Bergstrom
-grocery_net|fraud_Cummings Group
-grocery_net|fraud_Pfeffer LLC
-grocery_net|fraud_Runolfsson and Sons
-grocery_net|fraud_Jaskolski-Dibbert
-grocery_net|fraud_Rowe-Vandervort
-grocery_net|fraud_Skiles-Ankunding
-grocery_net|fraud_Trantow PLC
-grocery_net|fraud_Emmerich-Luettgen
-grocery_net|fraud_Rempel PLC
-grocery_net|fraud_Smitham-Schiller
-grocery_net|fraud_Ferry, Reichel and DuBuque
-grocery_net|fraud_Kemmer-Reinger
-grocery_net|fraud_Funk Group
-grocery_net|fraud_Morar Inc
-grocery_net|fraud_Gutmann Ltd
-grocery_net|fraud_Dicki Ltd
-grocery_net|fraud_Kling-Grant
-grocery_net|fraud_Heller-Abshire
-grocery_net|fraud_Stokes, Christiansen and Sipes
-grocery_net|fraud_Swift, Bradtke and Marquardt
-grocery_net|fraud_Tromp, Kerluke and Glover
-grocery_net|fraud_Morissette, Weber and Wiegand
-grocery_pos|fraud_Padberg-Welch
-grocery_pos|fraud_Murray-Smitham
-grocery_pos|fraud_Kuhic Inc
-grocery_pos|fraud_Cartwright-Harris
-grocery_pos|fraud_Kiehn-Emmerich
-grocery_pos|fraud_Koepp-Parker
-grocery_pos|fraud_Mosciski, Gislason and Mertz
-grocery_pos|fraud_Auer-Mosciski
-grocery_pos|fraud_Kovacek, Dibbert and Ondricka
-grocery_pos|fraud_Lockman Ltd
-grocery_pos|fraud_Rutherford-Mertz
-grocery_pos|fraud_Goldner, Kovacek and Abbott
-grocery_pos|fraud_Bailey-Morar
-grocery_pos|fraud_Koepp-Witting
-grocery_pos|fraud_Miller-Hauck
-grocery_pos|fraud_Bradtke PLC
-grocery_pos|fraud_Schoen, Kuphal and Nitzsche
-grocery_pos|fraud_Stracke-Lemke
-grocery_pos|fraud_Deckow-O'Conner
-grocery_pos|fraud_Doyle Ltd
-grocery_pos|fraud_Casper, Hand and Zulauf
-grocery_pos|fraud_Wolf Inc
-grocery_pos|fraud_Rau and Sons
-grocery_pos|fraud_Kutch and Sons
-grocery_pos|fraud_DuBuque LLC
-grocery_pos|fraud_Bauch-Raynor
-grocery_pos|fraud_Kunze Inc
-grocery_pos|fraud_Kilback LLC
-grocery_pos|fraud_Schultz, Simonis and Little
-grocery_pos|fraud_O'Keefe-Hudson
-grocery_pos|fraud_Hackett-Lueilwitz
-grocery_pos|fraud_Barton Inc
-grocery_pos|fraud_Goodwin-Nitzsche
-grocery_pos|fraud_Kiehn Inc
-grocery_pos|fraud_Schumm, Bauch and Ondricka
-grocery_pos|fraud_Heidenreich PLC
-grocery_pos|fraud_Hudson-Ratke
-grocery_pos|fraud_Vandervort-Funk
-grocery_pos|fraud_Schamberger-O'Keefe
-grocery_pos|fraud_Huel, Hammes and Witting
-grocery_pos|fraud_Rowe, Batz and Goodwin
-grocery_pos|fraud_Cole PLC
-grocery_pos|fraud_Heller, Gutmann and Zieme
-grocery_pos|fraud_Moen, Reinger and Murphy
-grocery_pos|fraud_Osinski, Ledner and Leuschke
-grocery_pos|fraud_Bogisich Inc
-grocery_pos|fraud_McDermott-Weimann
-grocery_pos|fraud_Pacocha-O'Reilly
-grocery_pos|fraud_Lockman, West and Runte
-grocery_pos|fraud_Strosin-Cruickshank
-pharmacy|fraud_Cormier-Bechtelar
-pharmacy|fraud_O'Conner Ltd
-pharmacy|fraud_Carter Group
-pharmacy|fraud_Green-Pacocha
-pharmacy|fraud_Ratke Group
-pharmacy|fraud_Kozey Group
-pharmacy|fraud_Jerde Inc
-pharmacy|fraud_Lindgren-Langosh
-pharmacy|fraud_Klein and Sons
-pharmacy|fraud_Barton and Sons
-pharmacy|fraud_Terry-Ratke
-pharmacy|fraud_Stokes-Kemmer
-pharmacy|fraud_Nitzsche Ltd
-pharmacy|fraud_Leuschke-Heller
-pharmacy|fraud_Stroman, Kilback and Schowalter
-pharmacy|fraud_Rau, Yundt and Marks
-pharmacy|fraud_Prohaska Group
-pharmacy|fraud_Breitenberg, Mitchell and Hegmann
-pharmacy|fraud_Cummings-Lubowitz
-pharmacy|fraud_Heidenreich and Sons
-pharmacy|fraud_Feest PLC
-pharmacy|fraud_Abbott Group
-pharmacy|fraud_Torphy-Walter
-pharmacy|fraud_Johnston-Hansen
-pharmacy|fraud_Homenick-Block
-pharmacy|fraud_Ziemann-Cronin
-pharmacy|fraud_Herman Ltd
-pharmacy|fraud_Ebert PLC
-pharmacy|fraud_Casper, Cole and Labadie
-pharmacy|fraud_DuBuque, Treutel and Bogisich
-pharmacy|fraud_Muller-Kertzmann
-pharmacy|fraud_Medhurst-Roob
-pharmacy|fraud_Rohan-Grant
-pharmacy|fraud_Kuhic Inc
-pharmacy|fraud_Kohler and Sons
-pharmacy|fraud_Farrell Inc
-pharmacy|fraud_Berge, Satterfield and Howe
-pharmacy|fraud_Lebsack Inc
-pharmacy|fraud_Little, Tillman and Will
-pharmacy|fraud_Schowalter-Hilll
-pharmacy|fraud_Ferry-White
-pharmacy|fraud_Bartoletti Inc
-pharmacy|fraud_Wuckert, Hahn and VonRueden
-pharmacy|fraud_Dickinson, Daniel and Schmidt
-pharmacy|fraud_Hammes Ltd
-pharmacy|fraud_Quigley-Kutch
-pharmacy|fraud_Hirthe LLC
-pharmacy|fraud_Huels, Cole and Hand
-pharmacy|fraud_Wintheiser PLC
-pharmacy|fraud_Kozey, Conn and Hammes
-misc_net|fraud_Lehner, Mosciski and King
-misc_net|fraud_Hayes, Marquardt and Dibbert
-misc_net|fraud_Kerluke Inc
-misc_net|fraud_Nader-Heller
-misc_net|fraud_Flatley-Durgan
-misc_net|fraud_McGlynn-Heathcote
-misc_net|fraud_Kerluke, Kertzmann and Wiza
-misc_net|fraud_Kerluke PLC
-misc_net|fraud_Donnelly PLC
-misc_net|fraud_Durgan-Auer
-misc_net|fraud_Kris-Weimann
-misc_net|fraud_Koelpin and Sons
-misc_net|fraud_Ruecker Group
-misc_net|fraud_Corwin-Gorczany
-misc_net|fraud_Dooley-Thompson
-misc_net|fraud_Greenfelder, Bartoletti and Davis
-misc_net|fraud_Brown PLC
-misc_net|fraud_Tillman, Fritsch and Schmitt
-misc_net|fraud_Volkman Ltd
-misc_net|fraud_Dach-Nader
-misc_net|fraud_Rippin, Kub and Mann
-misc_net|fraud_Herman, Treutel and Dickens
-misc_net|fraud_Jaskolski-Vandervort
-misc_net|fraud_Huel-Langworth
-misc_net|fraud_Kerluke, Considine and Macejkovic
-misc_net|fraud_Johnson, Runolfsdottir and Mayer
-misc_net|fraud_Bogisich-Homenick
-misc_net|fraud_Stehr, Jewess and Schimmel
-misc_net|fraud_Rohan, White and Aufderhar
-misc_net|fraud_Kuphal-Predovic
-misc_net|fraud_Bednar Group
-misc_net|fraud_Welch Inc
-misc_net|fraud_Jones, Sawayn and Romaguera
-misc_net|fraud_Hamill-Daugherty
-misc_net|fraud_Lebsack and Sons
-misc_net|fraud_Schmitt Ltd
-misc_net|fraud_Kunde-Sanford
-misc_net|fraud_Mante Group
-misc_net|fraud_Rodriguez, Yost and Jenkins
-misc_net|fraud_Moore, Dibbert and Koepp
-misc_net|fraud_Ferry, Lynch and Kautzer
-misc_net|fraud_Block-Parisian
-misc_net|fraud_Zemlak Group
-misc_net|fraud_Miller-Harris
-misc_net|fraud_Huel Ltd
-misc_net|fraud_Kuhn LLC
-misc_net|fraud_Kuphal-Bartoletti
-misc_net|fraud_Parisian, Schiller and Altenwerth
-misc_net|fraud_Klocko LLC
-misc_net|fraud_Bernier, Volkman and Hoeger
-misc_pos|fraud_Keeling-Crist
-misc_pos|fraud_Wiza, Schaden and Stark
-misc_pos|fraud_Boehm, Predovic and Reinger
-misc_pos|fraud_Simonis-Prohaska
-misc_pos|fraud_Flatley Group
-misc_pos|fraud_Wisozk and Sons
-misc_pos|fraud_Cremin, Hamill and Reichel
-misc_pos|fraud_Block Group
-misc_pos|fraud_Reynolds-Schinner
-misc_pos|fraud_Haley Group
-misc_pos|fraud_Christiansen-Gusikowski
-misc_pos|fraud_Howe Ltd
-misc_pos|fraud_Torp-Lemke
-misc_pos|fraud_Maggio-Fahey
-misc_pos|fraud_Boyer PLC
-misc_pos|fraud_Lehner, Reichert and Mills
-misc_pos|fraud_Yost, Block and Koepp
-misc_pos|fraud_Turcotte-Halvorson
-misc_pos|fraud_Towne LLC
-misc_pos|fraud_Eichmann-Russel
-misc_pos|fraud_Stiedemann Inc
-misc_pos|fraud_Wintheiser, Dietrich and Schimmel
-misc_pos|fraud_McDermott-Rice
-misc_pos|fraud_Bruen-Yost
-misc_pos|fraud_McCullough LLC
-misc_pos|fraud_Gutmann-Upton
-misc_pos|fraud_Kemmer-Buckridge
-misc_pos|fraud_Herman Inc
-misc_pos|fraud_Buckridge PLC
-misc_pos|fraud_Terry, Johns and Bins
-misc_pos|fraud_Balistreri-Nader
-misc_pos|fraud_Roberts-Beahan
-misc_pos|fraud_Dickinson Ltd
-misc_pos|fraud_Spencer-Runolfsson
-misc_pos|fraud_Hermann-Gaylord
-misc_pos|fraud_Dickinson-Rempel
-misc_pos|fraud_Smith-Stokes
-misc_pos|fraud_Monahan, Bogisich and Ledner
-misc_pos|fraud_Williamson LLC
-misc_pos|fraud_Stamm-Rodriguez
-misc_pos|fraud_Schmeler Inc
-misc_pos|fraud_McGlynn-Jaskolski
-misc_pos|fraud_Nienow, Ankunding and Collier
-misc_pos|fraud_Herzog Ltd
-misc_pos|fraud_Halvorson Group
-misc_pos|fraud_Boehm, Block and Jakubowski
-misc_pos|fraud_Turner, Ruecker and Parisian
-misc_pos|fraud_Thiel PLC
-misc_pos|fraud_Wiza LLC
-misc_pos|fraud_Gislason Group
-shopping_net|fraud_Cormier LLC
-shopping_net|fraud_Reichert, Rowe and Mraz
-shopping_net|fraud_Bashirian Group
-shopping_net|fraud_Langworth, Boehm and Gulgowski
-shopping_net|fraud_Greenholt, O'Hara and Balistreri
-shopping_net|fraud_Kozey-Boehm
-shopping_net|fraud_Boyer-Reichert
-shopping_net|fraud_Heathcote LLC
-shopping_net|fraud_Boyer PLC
-shopping_net|fraud_Kerluke-Abshire
-shopping_net|fraud_Gerlach Inc
-shopping_net|fraud_Goyette Inc
-shopping_net|fraud_Baumbach, Feeney and Morar
-shopping_net|fraud_Gottlieb, Considine and Schultz
-shopping_net|fraud_Kuhic, Bins and Pfeffer
-shopping_net|fraud_Kassulke PLC
-shopping_net|fraud_Reichert, Shanahan and Hayes
-shopping_net|fraud_Stanton, Jakubowski and Baumbach
-shopping_net|fraud_Jast Ltd
-shopping_net|fraud_Schmidt and Sons
-shopping_net|fraud_Kuhic LLC
-shopping_net|fraud_Schmeler, Bashirian and Price
-shopping_net|fraud_Ruecker, Beer and Collier
-shopping_net|fraud_Heathcote, Yost and Kertzmann
-shopping_net|fraud_Little, Gutmann and Lynch
-shopping_net|fraud_Predovic Inc
-shopping_net|fraud_Romaguera, Cruickshank and Greenholt
-shopping_net|fraud_Hills-Witting
-shopping_net|fraud_Fisher Inc
-shopping_net|fraud_Mohr-Bayer
-shopping_net|fraud_Lemke-Gutmann
-shopping_net|fraud_Gleason-Macejkovic
-shopping_net|fraud_Mosciski, Ziemann and Farrell
-shopping_net|fraud_Schumm PLC
-shopping_net|fraud_Zboncak, Rowe and Murazik
-shopping_net|fraud_Fisher-Schowalter
-shopping_net|fraud_Rempel Inc
-shopping_net|fraud_Medhurst PLC
-shopping_net|fraud_Kihn, Abernathy and Douglas
-shopping_net|fraud_Stamm-Witting
-shopping_net|fraud_Towne, Greenholt and Koepp
-shopping_net|fraud_Volkman-Predovic
-shopping_net|fraud_Altenwerth, Cartwright and Koss
-shopping_net|fraud_Price Inc
-shopping_net|fraud_Ankunding LLC
-shopping_net|fraud_Terry-Huel
-shopping_net|fraud_Streich, Dietrich and Barton
-shopping_net|fraud_Labadie, Treutel and Bode
-shopping_net|fraud_Auer-West
-shopping_net|fraud_Reichert, Huels and Hoppe
-shopping_pos|fraud_Roob, Conn and Tremblay
-shopping_pos|fraud_Pfeffer and Sons
-shopping_pos|fraud_Goyette, Howell and Collier
-shopping_pos|fraud_Weimann, Kuhic and Beahan
-shopping_pos|fraud_Stoltenberg-Beatty
-shopping_pos|fraud_Watsica, Haag and Considine
-shopping_pos|fraud_Swaniawski, Lowe and Robel
-shopping_pos|fraud_Kris-Padberg
-shopping_pos|fraud_Baumbach, Strosin and Nicolas
-shopping_pos|fraud_Pacocha-Bauch
-shopping_pos|fraud_Quitzon, Green and Bashirian
-shopping_pos|fraud_Morissette PLC
-shopping_pos|fraud_Willms, Kris and Bergnaum
-shopping_pos|fraud_Lesch Ltd
-shopping_pos|fraud_Macejkovic-Lesch
-shopping_pos|fraud_Turner and Sons
-shopping_pos|fraud_Lynch Ltd
-shopping_pos|fraud_Hickle Group
-shopping_pos|fraud_Barrows PLC
-shopping_pos|fraud_Beier-Hyatt
-shopping_pos|fraud_Haley, Jewess and Bechtelar
-shopping_pos|fraud_Schuppe, Nolan and Hoeger
-shopping_pos|fraud_Hermann and Sons
-shopping_pos|fraud_Botsford Ltd
-shopping_pos|fraud_Jast-McDermott
-shopping_pos|fraud_Jacobi and Sons
-shopping_pos|fraud_Mohr Inc
-shopping_pos|fraud_Pagac LLC
-shopping_pos|fraud_Sawayn PLC
-shopping_pos|fraud_Pouros-Conroy
-shopping_pos|fraud_Baumbach, Hodkiewicz and Walsh
-shopping_pos|fraud_Hudson-Grady
-shopping_pos|fraud_Bernhard, Grant and Langworth
-shopping_pos|fraud_Mayert Group
-shopping_pos|fraud_Conroy Ltd
-shopping_pos|fraud_Metz-Boehm
-shopping_pos|fraud_Douglas, Schneider and Turner
-shopping_pos|fraud_Torphy-Goyette
-shopping_pos|fraud_Friesen Inc
-shopping_pos|fraud_Kihn Inc
-shopping_pos|fraud_Kuhn LLC
-shopping_pos|fraud_Nitzsche, Kessler and Wolff
-shopping_pos|fraud_Pouros-Haag
-shopping_pos|fraud_Dooley Inc
-shopping_pos|fraud_Daugherty, Pouros and Beahan
-shopping_pos|fraud_Bins, Balistreri and Beatty
-shopping_pos|fraud_Bahringer, Schoen and Corkery
-shopping_pos|fraud_Okuneva, Schneider and Rau
-shopping_pos|fraud_Jewess LLC
-shopping_pos|fraud_Denesik and Sons
-utilities|fraud_Herman, Rice and Hamill
-utilities|fraud_Romaguera Ltd
-utilities|fraud_Von Ltd
-utilities|fraud_Lebsack Ltd
-utilities|fraud_Torphy LLC
-utilities|fraud_Kulas-Veum
-utilities|fraud_D'Amore-Kozey
-utilities|fraud_Gottlieb-Mayer
-utilities|fraud_Nienow, Murphy and Von
-utilities|fraud_Hirthe and Sons
-utilities|fraud_Trantow, Barrows and Lehner
-utilities|fraud_Abshire PLC
-utilities|fraud_Brekke PLC
-utilities|fraud_Stanton PLC
-utilities|fraud_McDermott PLC
-utilities|fraud_Huel PLC
-utilities|fraud_Bergnaum-Kling
-utilities|fraud_Waters-Farrell
-utilities|fraud_Littel, Dare and Wuckert
-utilities|fraud_Barrows, Veum and Sanford
-utilities|fraud_Blick, Schroeder and Nader
-utilities|fraud_Rutherford-Bradtke
-utilities|fraud_Kuphal-Schmidt
-utilities|fraud_Vandervort, Crooks and Lockman
-utilities|fraud_Weber LLC
-utilities|fraud_Gislason-Hills
-utilities|fraud_Pouros LLC
-utilities|fraud_Homenick Group
-utilities|fraud_Steuber-Kertzmann
-utilities|fraud_Hegmann Inc
-utilities|fraud_Ratke-Herman
-utilities|fraud_Parisian and Sons
-utilities|fraud_Renner Inc
-utilities|fraud_Lang-Leuschke
-utilities|fraud_Hackett LLC
-utilities|fraud_Zieme Group
-utilities|fraud_Murphy Group
-utilities|fraud_Gutkowski, Muller and McCullough
-utilities|fraud_Mohr PLC
-utilities|fraud_Gerlach Inc
-utilities|fraud_Cruickshank PLC
-utilities|fraud_Schoen-Stark
-utilities|fraud_Labadie LLC
-utilities|fraud_Ledner-Skiles
-utilities|fraud_Wolf, Marks and Kovacek
-utilities|fraud_Donnelly, Funk and Kerluke
-utilities|fraud_Hills, Mosciski and Yundt
-utilities|fraud_Mueller Group
-utilities|fraud_Parker-Conn
-utilities|fraud_Fadel, Green and Tillman
-entertainment|fraud_Cruickshank-Mills
-entertainment|fraud_Nienow PLC
-entertainment|fraud_Grimes LLC
-entertainment|fraud_Kilback and Sons
-entertainment|fraud_Abbott-Rogahn
-entertainment|fraud_Wilkinson Ltd
-entertainment|fraud_Larson-Moen
-entertainment|fraud_Morissette LLC
-entertainment|fraud_Lind-Buckridge
-entertainment|fraud_Nicolas, Hills and McGlynn
-entertainment|fraud_Turcotte, McKenzie and Koss
-entertainment|fraud_Johns Inc
-entertainment|fraud_Larkin, Stracke and Greenfelder
-entertainment|fraud_Upton PLC
-entertainment|fraud_Douglas-White
-entertainment|fraud_Gibson-Deckow
-entertainment|fraud_Bins-Tillman
-entertainment|fraud_Effertz, Welch and Schowalter
-entertainment|fraud_Bauch-Blanda
-entertainment|fraud_Parker, Nolan and Trantow
-entertainment|fraud_Abshire PLC
-entertainment|fraud_Donnelly LLC
-entertainment|fraud_Dare-Marvin
-entertainment|fraud_Thiel-Thiel
-entertainment|fraud_Goldner-Lemke
-entertainment|fraud_Schroeder, Hauck and Treutel
-entertainment|fraud_Dibbert-Green
-entertainment|fraud_Heaney-Marquardt
-entertainment|fraud_Cormier, Stracke and Thiel
-entertainment|fraud_Brown-Greenholt
-entertainment|fraud_Hoppe, Harris and Bednar
-entertainment|fraud_Effertz LLC
-entertainment|fraud_Frami Group
-entertainment|fraud_Cummerata-Hilpert
-entertainment|fraud_Kling-Ernser
-entertainment|fraud_Beier LLC
-entertainment|fraud_Reichel Inc
-entertainment|fraud_Spencer PLC
-entertainment|fraud_Runolfsdottir, Mueller and Hand
-entertainment|fraud_Schaefer, Fay and Hilll
-entertainment|fraud_Stark-Batz
-entertainment|fraud_Padberg-Rogahn
-entertainment|fraud_Johns-Hoeger
-entertainment|fraud_Welch, Rath and Koepp
-entertainment|fraud_Fadel, Mertz and Rippin
-entertainment|fraud_Howe PLC
-entertainment|fraud_Schuppe LLC
-entertainment|fraud_Dibbert and Sons
-entertainment|fraud_Kassulke Inc
-entertainment|fraud_Klein Group
-food_dining|fraud_Schuppe-Schuppe
-food_dining|fraud_McKenzie-Huels
-food_dining|fraud_Bahringer, Osinski and Block
-food_dining|fraud_Konopelski, Schneider and Hartmann
-food_dining|fraud_Schumm, McLaughlin and Carter
-food_dining|fraud_Koss, McLaughlin and Mayer
-food_dining|fraud_Bechtelar-Rippin
-food_dining|fraud_Stiedemann Ltd
-food_dining|fraud_Feil, Hilpert and Koss
-food_dining|fraud_Kihn-Schuster
-food_dining|fraud_Powlowski-Weimann
-food_dining|fraud_Hermiston, Russel and Price
-food_dining|fraud_Graham, Hegmann and Hammes
-food_dining|fraud_Haag-Blanda
-food_dining|fraud_Will Ltd
-food_dining|fraud_Kutch, Steuber and Gerhold
-food_dining|fraud_Kilback LLC
-food_dining|fraud_Ernser-Lynch
-food_dining|fraud_Volkman PLC
-food_dining|fraud_Kilback Group
-food_dining|fraud_Harris Group
-food_dining|fraud_Lesch, D'Amore and Brown
-food_dining|fraud_Schulist Ltd
-food_dining|fraud_O'Hara-Wilderman
-food_dining|fraud_Jast and Sons
-food_dining|fraud_Abernathy and Sons
-food_dining|fraud_Hagenes, Kohler and Hoppe
-food_dining|fraud_Turner, Ziemann and Lehner
-food_dining|fraud_Conroy-Emard
-food_dining|fraud_Jakubowski Group
-food_dining|fraud_Deckow-Dare
-food_dining|fraud_Kuphal-Toy
-food_dining|fraud_Kihn-Fritsch
-food_dining|fraud_Armstrong, Walter and Gottlieb
-food_dining|fraud_Kuhn Group
-food_dining|fraud_Zboncak Ltd
-food_dining|fraud_Bernhard-Lesch
-food_dining|fraud_Langosh, Wintheiser and Hyatt
-food_dining|fraud_Runte-Mohr
-food_dining|fraud_Connelly PLC
-food_dining|fraud_Lakin, Ferry and Beatty
-food_dining|fraud_Weber and Sons
-food_dining|fraud_O'Keefe-Wisoky
-food_dining|fraud_Zboncak LLC
-food_dining|fraud_Leannon-Ward
-food_dining|fraud_Schneider, Hayes and Nikolaus
-food_dining|fraud_Daugherty-Thompson
-food_dining|fraud_Bahringer-Streich
-food_dining|fraud_McCullough, Hudson and Schuster
-food_dining|fraud_Reinger, Weissnat and Strosin
-health_fitness|fraud_Dare, Fritsch and Zboncak
-health_fitness|fraud_Schroeder Group
-health_fitness|fraud_Feil-Morar
-health_fitness|fraud_Roob-Okuneva
-health_fitness|fraud_Dietrich-Fadel
-health_fitness|fraud_Schumm PLC
-health_fitness|fraud_Runte, Green and Emard
-health_fitness|fraud_Turcotte, Batz and Buckridge
-health_fitness|fraud_Fadel-Hilpert
-health_fitness|fraud_Klocko, Runolfsdottir and Breitenberg
-health_fitness|fraud_Brown, Homenick and Lesch
-health_fitness|fraud_Ledner, Hartmann and Feest
-health_fitness|fraud_Kulas Group
-health_fitness|fraud_Fritsch and Sons
-health_fitness|fraud_Friesen Ltd
-health_fitness|fraud_Torphy-Kertzmann
-health_fitness|fraud_Conroy, Balistreri and Gorczany
-health_fitness|fraud_Kertzmann LLC
-health_fitness|fraud_Shields-Wunsch
-health_fitness|fraud_Ziemann-Waters
-health_fitness|fraud_Hintz, Bauch and Smith
-health_fitness|fraud_Rippin-VonRueden
-health_fitness|fraud_Torp, Muller and Borer
-health_fitness|fraud_Jacobi Inc
-health_fitness|fraud_Adams-Barrows
-health_fitness|fraud_Cronin, Kshlerin and Weber
-health_fitness|fraud_Cormier LLC
-health_fitness|fraud_Graham and Sons
-health_fitness|fraud_Bahringer Group
-health_fitness|fraud_Hamill-D'Amore
-health_fitness|fraud_Romaguera Ltd
-health_fitness|fraud_Haley, Batz and Auer
-health_fitness|fraud_Heller PLC
-health_fitness|fraud_Thompson-Gleason
-health_fitness|fraud_Fadel Inc
-health_fitness|fraud_Kub-Heaney
-health_fitness|fraud_Hills, Hegmann and Schaefer
-health_fitness|fraud_Hermiston, Pacocha and Smith
-health_fitness|fraud_Waters-Cruickshank
-health_fitness|fraud_Mueller, Gerhold and Mueller
-health_fitness|fraud_Hyatt, Russel and Gleichner
-health_fitness|fraud_Greenholt Ltd
-health_fitness|fraud_Dare-Gibson
-health_fitness|fraud_Hirthe-Beier
-health_fitness|fraud_Ratke and Sons
-health_fitness|fraud_Carroll PLC
-health_fitness|fraud_Erdman-Durgan
-health_fitness|fraud_Swaniawski, Nitzsche and Welch
-health_fitness|fraud_Mante, Luettgen and Hackett
-health_fitness|fraud_Reilly and Sons
-home|fraud_Botsford PLC
-home|fraud_Renner Ltd
-home|fraud_Ernser-Feest
-home|fraud_Eichmann-Kilback
-home|fraud_Kutch-Wilderman
-home|fraud_O'Connell, Botsford and Hand
-home|fraud_Hettinger, McCullough and Fay
-home|fraud_Wuckert-Goldner
-home|fraud_Moore, Williamson and Emmerich
-home|fraud_O'Connell-Ullrich
-home|fraud_Cole, Hills and Jewess
-home|fraud_O'Reilly, Mohr and Purdy
-home|fraud_Champlin and Sons
-home|fraud_Gulgowski LLC
-home|fraud_Schiller, Blanda and Johnson
-home|fraud_Wuckert, Wintheiser and Friesen
-home|fraud_Denesik, Powlowski and Pouros
-home|fraud_Reilly LLC
-home|fraud_Durgan, Gislason and Spencer
-home|fraud_Champlin-Casper
-home|fraud_Stark-Koss
-home|fraud_Crist, Jakubowski and Littel
-home|fraud_Windler, Goodwin and Kovacek
-home|fraud_Witting, Beer and Ernser
-home|fraud_Schmidt-Larkin
-home|fraud_Koss, Hansen and Lueilwitz
-home|fraud_Terry Ltd
-home|fraud_Skiles LLC
-home|fraud_Bahringer, Bergnaum and Quitzon
-home|fraud_White and Sons
-home|fraud_Beier and Sons
-home|fraud_Gutmann, McLaughlin and Wiza
-home|fraud_Lynch-Wisozk
-home|fraud_Kutch-Ferry
-home|fraud_Botsford and Sons
-home|fraud_Padberg-Sauer
-home|fraud_Altenwerth-Kilback
-home|fraud_Kling, Howe and Schneider
-home|fraud_Collier LLC
-home|fraud_Pollich LLC
-home|fraud_Quitzon-Goyette
-home|fraud_Prosacco, Kreiger and Kovacek
-home|fraud_Medhurst Inc
-home|fraud_Gaylord-Powlowski
-home|fraud_Jakubowski Inc
-home|fraud_Berge-Ullrich
-home|fraud_Connelly-Carter
-home|fraud_Gerhold LLC
-home|fraud_Streich Ltd
-home|fraud_McDermott, Osinski and Morar
-kids_pets|fraud_Yost, Schamberger and Windler
-kids_pets|fraud_Gottlieb Group
-kids_pets|fraud_Schaefer Ltd
-kids_pets|fraud_Little Ltd
-kids_pets|fraud_Bode-Schuster
-kids_pets|fraud_Brown Inc
-kids_pets|fraud_Goyette-Gerhold
-kids_pets|fraud_Hauck, Dietrich and Funk
-kids_pets|fraud_Weimann-Lockman
-kids_pets|fraud_Windler LLC
-kids_pets|fraud_Breitenberg-Hermiston
-kids_pets|fraud_Lowe, Dietrich and Erdman
-kids_pets|fraud_Gleason and Sons
-kids_pets|fraud_Lubowitz-Walter
-kids_pets|fraud_Barton LLC
-kids_pets|fraud_Metz, Russel and Metz
-kids_pets|fraud_Cartwright PLC
-kids_pets|fraud_Weber, Thiel and Hammes
-kids_pets|fraud_Ullrich Ltd
-kids_pets|fraud_Pacocha-Weissnat
-kids_pets|fraud_Pouros, Walker and Spencer
-kids_pets|fraud_Bode-Rempel
-kids_pets|fraud_Hoppe-Parisian
-kids_pets|fraud_Crona and Sons
-kids_pets|fraud_Ruecker-Mayert
-kids_pets|fraud_Hammes-Beatty
-kids_pets|fraud_Schoen-Quigley
-kids_pets|fraud_Lang, Towne and Schuppe
-kids_pets|fraud_Schoen Ltd
-kids_pets|fraud_Waelchi-Wolf
-kids_pets|fraud_Bernier and Sons
-kids_pets|fraud_Bogisich-Weimann
-kids_pets|fraud_Roberts, Daniel and Macejkovic
-kids_pets|fraud_Schimmel-Olson
-kids_pets|fraud_Waelchi Inc
-kids_pets|fraud_Fahey Inc
-kids_pets|fraud_Streich, Rolfson and Wilderman
-kids_pets|fraud_Berge-Hills
-kids_pets|fraud_Larkin Ltd
-kids_pets|fraud_Wilkinson PLC
-kids_pets|fraud_Rau-Grant
-kids_pets|fraud_Hilpert-Conroy
-kids_pets|fraud_Beer-Jast
-kids_pets|fraud_Swift PLC
-kids_pets|fraud_Romaguera, Wehner and Tromp
-kids_pets|fraud_Rau-Robel
-kids_pets|fraud_Dare, Casper and Bartoletti
-kids_pets|fraud_Nolan-Williamson
-kids_pets|fraud_Bednar PLC
-kids_pets|fraud_Daugherty LLC
-personal_care|fraud_Schiller Ltd
-personal_care|fraud_Leffler-Goldner
-personal_care|fraud_Erdman-Schaden
-personal_care|fraud_Abbott-Steuber
-personal_care|fraud_Emmerich-Rau
-personal_care|fraud_Wilkinson LLC
-personal_care|fraud_Osinski Inc
-personal_care|fraud_Nienow, Barrows and Romaguera
-personal_care|fraud_Homenick LLC
-personal_care|fraud_Berge, Kautzer and Harris
-personal_care|fraud_Zemlak, Tillman and Cremin
-personal_care|fraud_Bradtke, Torp and Bahringer
-personal_care|fraud_Prosacco LLC
-personal_care|fraud_Kub PLC
-personal_care|fraud_Nader-Maggio
-personal_care|fraud_Auer LLC
-personal_care|fraud_Parker-Kunde
-personal_care|fraud_Rolfson-Kunde
-personal_care|fraud_Roberts, Ryan and Smith
-personal_care|fraud_Crooks and Sons
-personal_care|fraud_Baumbach Ltd
-personal_care|fraud_Bartoletti and Sons
-personal_care|fraud_Marvin-Lind
-personal_care|fraud_Shanahan-Lehner
-personal_care|fraud_Dickinson Ltd
-personal_care|fraud_Schmeler-Howe
-personal_care|fraud_Langworth LLC
-personal_care|fraud_Morissette-Schaefer
-personal_care|fraud_Zulauf LLC
-personal_care|fraud_Gottlieb-Hansen
-personal_care|fraud_Becker, Harris and Harvey
-personal_care|fraud_Kirlin and Sons
-personal_care|fraud_Schoen, Nienow and Bauch
-personal_care|fraud_Friesen-Ortiz
-personal_care|fraud_Walter, Hettinger and Kessler
-personal_care|fraud_Labadie LLC
-personal_care|fraud_Hills-Boyer
-personal_care|fraud_Watsica LLC
-personal_care|fraud_Monahan-Morar
-personal_care|fraud_Yost-Rogahn
-personal_care|fraud_Kihn, Brakus and Goyette
-personal_care|fraud_Erdman-Ebert
-personal_care|fraud_Sporer-Keebler
-personal_care|fraud_Reichel LLC
-personal_care|fraud_Hahn, Bahringer and McLaughlin
-personal_care|fraud_Medhurst, Cartwright and Ebert
-personal_care|fraud_Kozey-Kuhlman
-personal_care|fraud_Bins-Howell
-personal_care|fraud_Kautzer and Sons
-personal_care|fraud_Lubowitz, Terry and Stracke
-travel|fraud_Larson, Quitzon and Spencer
-travel|fraud_Kovacek Ltd
-travel|fraud_Satterfield-Lowe
-travel|fraud_Kozey-McDermott
-travel|fraud_Corwin-Romaguera
-travel|fraud_Hagenes, Hermann and Stroman
-travel|fraud_Breitenberg LLC
-travel|fraud_McLaughlin, Armstrong and Koepp
-travel|fraud_Ritchie, Oberbrunner and Cremin
-travel|fraud_Leannon-Nikolaus
-travel|fraud_Ritchie, Bradtke and Stiedemann
-travel|fraud_Hodkiewicz, Prohaska and Paucek
-travel|fraud_Ebert-Daugherty
-travel|fraud_Kunze, Larkin and Mayert
-travel|fraud_Thiel Ltd
-travel|fraud_Mosciski Group
-travel|fraud_Lynch-Mohr
-travel|fraud_Kris-Kertzmann
-travel|fraud_Tillman LLC
-travel|fraud_Turner LLC
-travel|fraud_Lemke and Sons
-travel|fraud_Eichmann, Hayes and Treutel
-travel|fraud_Hyatt-Blick
-travel|fraud_Hahn, Douglas and Schowalter
-travel|fraud_Fritsch LLC
-travel|fraud_Reichert-Weissnat
-travel|fraud_Veum-Koelpin
-travel|fraud_Jerde-Hermann
-travel|fraud_Romaguera and Sons
-travel|fraud_Bednar Inc
-travel|fraud_Ankunding-Carroll
-travel|fraud_Johnston-Casper
-travel|fraud_Boyer-Haley
-travel|fraud_Gislason Group
-travel|fraud_Reichel, Bradtke and Blanda
-travel|fraud_Little-Gleichner
-travel|fraud_Tromp Group
-travel|fraud_Monahan, Hermann and Johns
-travel|fraud_Treutel-King
-travel|fraud_Kessler Group
-travel|fraud_Champlin, Rolfson and Connelly
-travel|fraud_Schroeder, Wolff and Hermiston
-travel|fraud_Kilback, Nitzsche and Leffler
-travel|fraud_Medhurst, Labadie and Gottlieb
-travel|fraud_Hartmann, Rowe and Hermann
-travel|fraud_Hackett Group
-travel|fraud_Block-Hauck
-travel|fraud_Kessler Inc
-travel|fraud_Goyette-Herzog
-travel|fraud_Douglas, DuBuque and McKenzie
+category|merchant_name|merchant_code|merchant_size
+gas_transport|Shell|5541|large
+gas_transport|ExxonMobil|5541|small
+gas_transport|Chevron|5541|small
+gas_transport|BP|5541|large
+gas_transport|Marathon Petroleum|5541|small
+gas_transport|Valero|5541|small
+gas_transport|Phillips 66|5541|small
+gas_transport|Sunoco|5541|small
+gas_transport|Citgo|5541|large
+gas_transport|Speedway|5541|small
+gas_transport|Circle K|5541|large
+gas_transport|QuikTrip|5541|large
+gas_transport|Wawa|5541|medium
+gas_transport|RaceTrac|5541|small
+gas_transport|Sheetz|5541|medium
+gas_transport|Casey's General Stores|5541|medium
+gas_transport|Pilot Flying J|5541|small
+gas_transport|Love's Travel Stops|5541|small
+gas_transport|Cumberland Farms|5541|small
+gas_transport|GetGo|5541|small
+gas_transport|Murphy USA|5541|small
+gas_transport|BJ's Gas|5541|medium
+gas_transport|Costco Gas|5541|medium
+gas_transport|Sam's Club Fuel|5541|small
+gas_transport|Kroger Fuel|5541|medium
+gas_transport|Uber|5541|small
+gas_transport|Lyft|5541|large
+gas_transport|Greyhound|5541|large
+gas_transport|Amtrak|5541|large
+gas_transport|Enterprise Rent-A-Car|5541|medium
+gas_transport|Hertz|5541|medium
+gas_transport|Avis|5541|small
+gas_transport|Budget Rent A Car|5541|medium
+gas_transport|National Car Rental|5541|medium
+gas_transport|Dollar Rent A Car|5541|small
+gas_transport|Thrifty Car Rental|5541|small
+gas_transport|Zipcar|5541|large
+gas_transport|Turo|5541|small
+gas_transport|U-Haul|5541|large
+gas_transport|Penske Truck Rental|5541|medium
+gas_transport|FedEx|5541|small
+gas_transport|UPS|5541|small
+gas_transport|USPS|5541|small
+gas_transport|DHL Express|5541|small
+gas_transport|Midas|5541|large
+gas_transport|Jiffy Lube|5541|small
+gas_transport|Valvoline Instant Oil Change|5541|small
+gas_transport|Pep Boys|5541|small
+gas_transport|AutoZone|5541|small
+gas_transport|O'Reilly Auto Parts|5541|small
+gas_transport|Advance Auto Parts|5541|small
+gas_transport|NAPA Auto Parts|5541|small
+gas_transport|Firestone Complete Auto Care|5541|medium
+gas_transport|Goodyear Auto Service|5541|small
+gas_transport|Maaco|5541|small
+gas_transport|Caliber Collision|5541|large
+gas_transport|Safelite AutoGlass|5541|medium
+gas_transport|Kwik Trip|5541|medium
+gas_transport|7-Eleven Fuel|5541|small
+gas_transport|Sinclair Oil|5541|small
+gas_transport|Conoco|5541|small
+gas_transport|Texaco|5541|medium
+gas_transport|Mobil|5541|small
+gas_transport|Arco|5541|large
+gas_transport|76 Gas Station|5541|medium
+grocery_net|Amazon Fresh|5411|small
+grocery_net|Instacart|5411|medium
+grocery_net|Walmart Grocery Online|5411|small
+grocery_net|Shipt|5411|large
+grocery_net|FreshDirect|5411|small
+grocery_net|Peapod|5411|small
+grocery_net|Thrive Market|5411|large
+grocery_net|Boxed|5411|small
+grocery_net|Misfits Market|5411|large
+grocery_net|Imperfect Foods|5411|small
+grocery_net|Hungryroot|5411|small
+grocery_net|ButcherBox|5411|small
+grocery_net|Farmbox Direct|5411|small
+grocery_net|Vitacost|5411|small
+grocery_net|iHerb|5411|small
+grocery_net|Kroger Online|5411|medium
+grocery_net|Target Grocery Online|5411|large
+grocery_net|Costco Online Grocery|5411|small
+grocery_net|HEB Online|5411|small
+grocery_net|Publix Delivery|5411|small
+grocery_net|Safeway Online|5411|small
+grocery_net|Albertsons Online|5411|small
+grocery_net|Giant Food Online|5411|large
+grocery_net|Stop and Shop Online|5411|small
+grocery_net|Aldi Instacart|5411|large
+grocery_net|Trader Joe's Instacart|5411|large
+grocery_net|Whole Foods Online|5411|large
+grocery_net|Gopuff|5411|small
+grocery_net|DoorDash DashMart|5411|medium
+grocery_net|Uber Eats Grocery|5411|large
+grocery_net|Weee!|5411|small
+grocery_net|Good Eggs|5411|medium
+grocery_net|Sun Basket|5411|large
+grocery_net|Green Chef|5411|small
+grocery_net|EveryPlate|5411|small
+grocery_net|Dinnerly|5411|medium
+grocery_net|Home Chef|5411|small
+grocery_net|HelloFresh|5411|small
+grocery_net|Blue Apron|5411|large
+grocery_net|Factor Meals|5411|large
+grocery_net|Daily Harvest|5411|medium
+grocery_net|Splendid Spoon|5411|small
+grocery_net|Sakara Life|5411|large
+grocery_net|Territory Foods|5411|small
+grocery_net|CookUnity|5411|large
+grocery_net|Trifecta Nutrition|5411|large
+grocery_net|Snap Kitchen|5411|small
+grocery_net|Freshly|5411|small
+grocery_net|Mosaic Foods|5411|small
+grocery_net|RealEats|5411|small
+grocery_net|Sunbasket|5411|small
+grocery_net|Purple Carrot|5411|small
+grocery_net|Hungryroot Market|5411|small
+grocery_net|Vons Online|5411|small
+grocery_net|Food Lion To Go|5411|medium
+grocery_net|Harris Teeter Online|5411|large
+grocery_net|Meijer Online|5411|small
+grocery_net|Hy-Vee Aisles Online|5411|small
+grocery_net|WinCo Foods Online|5411|large
+grocery_net|BJ's Same Day|5411|medium
+grocery_net|Walmart Plus Grocery|5411|small
+grocery_net|Amazon Pantry|5411|large
+grocery_net|Jet.com Grocery|5411|medium
+grocery_net|Google Shopping Grocery|5411|small
+grocery_net|NetGrocer|5411|small
+grocery_pos|Walmart Supercenter|5411|small
+grocery_pos|Kroger|5411|small
+grocery_pos|Albertsons|5411|large
+grocery_pos|Publix|5411|medium
+grocery_pos|H-E-B|5411|medium
+grocery_pos|Safeway|5411|small
+grocery_pos|Aldi|5411|large
+grocery_pos|Trader Joe's|5411|medium
+grocery_pos|Whole Foods Market|5411|medium
+grocery_pos|Costco Wholesale|5411|medium
+grocery_pos|Sam's Club|5411|small
+grocery_pos|Wegmans|5411|small
+grocery_pos|Meijer|5411|small
+grocery_pos|WinCo Foods|5411|small
+grocery_pos|Food Lion|5411|medium
+grocery_pos|Giant Eagle|5411|medium
+grocery_pos|Stop and Shop|5411|small
+grocery_pos|ShopRite|5411|large
+grocery_pos|Hy-Vee|5411|small
+grocery_pos|Sprouts Farmers Market|5411|small
+grocery_pos|Harris Teeter|5411|small
+grocery_pos|Giant Food|5411|large
+grocery_pos|Piggly Wiggly|5411|small
+grocery_pos|Save-A-Lot|5411|large
+grocery_pos|Lidl|5411|medium
+grocery_pos|Market Basket|5411|medium
+grocery_pos|Stater Bros|5411|small
+grocery_pos|Ingles Markets|5411|small
+grocery_pos|Brookshire Grocery|5411|small
+grocery_pos|Weis Markets|5411|medium
+grocery_pos|Price Chopper|5411|medium
+grocery_pos|Raley's|5411|medium
+grocery_pos|Smart and Final|5411|small
+grocery_pos|Grocery Outlet|5411|medium
+grocery_pos|Natural Grocers|5411|small
+grocery_pos|Earth Fare|5411|large
+grocery_pos|Fresh Thyme|5411|large
+grocery_pos|The Fresh Market|5411|small
+grocery_pos|Cardenas Markets|5411|large
+grocery_pos|Fiesta Mart|5411|medium
+grocery_pos|Vallarta Supermarkets|5411|large
+grocery_pos|Northgate Market|5411|small
+grocery_pos|99 Ranch Market|5411|large
+grocery_pos|H Mart|5411|large
+grocery_pos|Mitsuwa Marketplace|5411|small
+grocery_pos|Uwajimaya|5411|small
+grocery_pos|Patel Brothers|5411|small
+grocery_pos|Food Bazaar|5411|medium
+grocery_pos|Key Food|5411|small
+grocery_pos|Morton Williams|5411|medium
+grocery_pos|Bi-Lo|5411|small
+grocery_pos|Harveys Supermarket|5411|large
+grocery_pos|Food City|5411|large
+grocery_pos|Fred Meyer|5411|small
+grocery_pos|QFC|5411|medium
+grocery_pos|King Soopers|5411|large
+grocery_pos|Fry's Food Stores|5411|small
+grocery_pos|Ralphs|5411|medium
+grocery_pos|Vons|5411|small
+grocery_pos|Jewel-Osco|5411|large
+grocery_pos|Acme Markets|5411|small
+grocery_pos|Lucky Supermarkets|5411|large
+grocery_pos|Schnucks|5411|medium
+grocery_pos|Dillons|5411|medium
+grocery_pos|Pick 'n Save|5411|small
+pharmacy|CVS Pharmacy|5912|small
+pharmacy|Walgreens|5912|small
+pharmacy|Rite Aid|5912|large
+pharmacy|Walmart Pharmacy|5912|small
+pharmacy|Costco Pharmacy|5912|medium
+pharmacy|Sam's Club Pharmacy|5912|large
+pharmacy|Kroger Pharmacy|5912|medium
+pharmacy|Publix Pharmacy|5912|small
+pharmacy|H-E-B Pharmacy|5912|medium
+pharmacy|Albertsons Pharmacy|5912|small
+pharmacy|Safeway Pharmacy|5912|medium
+pharmacy|Hy-Vee Pharmacy|5912|small
+pharmacy|Meijer Pharmacy|5912|small
+pharmacy|Giant Eagle Pharmacy|5912|small
+pharmacy|Wegmans Pharmacy|5912|small
+pharmacy|Fred Meyer Pharmacy|5912|small
+pharmacy|Winn-Dixie Pharmacy|5912|small
+pharmacy|Stop and Shop Pharmacy|5912|small
+pharmacy|ShopRite Pharmacy|5912|medium
+pharmacy|Harris Teeter Pharmacy|5912|small
+pharmacy|Good Neighbor Pharmacy|5912|small
+pharmacy|Health Mart Pharmacy|5912|large
+pharmacy|Medicine Shoppe Pharmacy|5912|medium
+pharmacy|Genoa Healthcare|5912|small
+pharmacy|PharMerica|5912|large
+pharmacy|BrightSpring Health|5912|medium
+pharmacy|Omnicare|5912|large
+pharmacy|PharMerica Corporation|5912|small
+pharmacy|Capsule Pharmacy|5912|small
+pharmacy|Alto Pharmacy|5912|large
+pharmacy|Amazon Pharmacy|5912|medium
+pharmacy|Truepill|5912|medium
+pharmacy|Honeybee Health|5912|small
+pharmacy|Cost Plus Drugs|5912|small
+pharmacy|GeniusRx|5912|medium
+pharmacy|Blink Health|5912|medium
+pharmacy|RxSaver|5912|medium
+pharmacy|ScriptSave WellRx|5912|small
+pharmacy|GoodRx|5912|medium
+pharmacy|SingleCare|5912|large
+pharmacy|Express Scripts|5912|large
+pharmacy|OptumRx|5912|large
+pharmacy|Caremark|5912|small
+pharmacy|Humana Pharmacy|5912|large
+pharmacy|Cigna Pharmacy|5912|small
+pharmacy|Rite Aid Pharmacy|5912|small
+pharmacy|Duane Reade|5912|large
+pharmacy|Kinney Drugs|5912|large
+pharmacy|Bartell Drugs|5912|small
+pharmacy|Harmons Pharmacy|5912|medium
+pharmacy|Raley's Pharmacy|5912|medium
+pharmacy|Bi-Mart Pharmacy|5912|medium
+pharmacy|Brookshire Pharmacy|5912|small
+pharmacy|Acme Pharmacy|5912|small
+pharmacy|Giant Food Pharmacy|5912|small
+pharmacy|Tom Thumb Pharmacy|5912|small
+pharmacy|Randalls Pharmacy|5912|small
+pharmacy|Vons Pharmacy|5912|small
+pharmacy|Jewel-Osco Pharmacy|5912|medium
+pharmacy|Food Lion Pharmacy|5912|medium
+pharmacy|Price Chopper Pharmacy|5912|small
+pharmacy|Hannaford Pharmacy|5912|medium
+pharmacy|Big Y Pharmacy|5912|small
+pharmacy|Tops Pharmacy|5912|small
+pharmacy|Weis Pharmacy|5912|small
+misc_net|Amazon.com|5999|large
+misc_net|eBay|5999|large
+misc_net|Etsy|5999|small
+misc_net|Wish|5999|small
+misc_net|Wayfair|5999|small
+misc_net|Overstock|5999|small
+misc_net|Zulily|5999|small
+misc_net|Groupon|5999|small
+misc_net|Rakuten|5999|medium
+misc_net|AliExpress|5999|small
+misc_net|Chewy|5999|small
+misc_net|Zappos|5999|large
+misc_net|1-800-Flowers|5999|medium
+misc_net|FTD Flowers|5999|small
+misc_net|ProFlowers|5999|medium
+misc_net|Shutterfly|5999|small
+misc_net|Vistaprint|5999|large
+misc_net|Zazzle|5999|medium
+misc_net|Redbubble|5999|medium
+misc_net|Society6|5999|medium
+misc_net|Fiverr|5999|small
+misc_net|Upwork|5999|medium
+misc_net|TaskRabbit|5999|small
+misc_net|Thumbtack|5999|small
+misc_net|Angi|5999|small
+misc_net|LegalZoom|5999|small
+misc_net|Rocket Lawyer|5999|large
+misc_net|TurboTax Online|5999|medium
+misc_net|H&R Block Online|5999|small
+misc_net|Credit Karma|5999|medium
+misc_net|NerdWallet|5999|small
+misc_net|Mint|5999|medium
+misc_net|YNAB|5999|large
+misc_net|Personal Capital|5999|small
+misc_net|Betterment|5999|large
+misc_net|Wealthfront|5999|large
+misc_net|Robinhood|5999|large
+misc_net|SoFi|5999|small
+misc_net|Acorns|5999|small
+misc_net|Stash|5999|small
+misc_net|PayPal|5999|large
+misc_net|Venmo|5999|small
+misc_net|Zelle|5999|small
+misc_net|Cash App|5999|small
+misc_net|Apple Pay Online|5999|small
+misc_net|Google Pay|5999|small
+misc_net|Facebook Marketplace|5999|medium
+misc_net|Mercari|5999|medium
+misc_net|Poshmark|5999|small
+misc_net|ThredUp|5999|medium
+misc_net|Depop|5999|small
+misc_net|OfferUp|5999|small
+misc_net|Craigslist Services|5999|medium
+misc_net|Nextdoor Services|5999|small
+misc_net|Care.com|5999|small
+misc_net|Rover.com|5999|medium
+misc_net|Wag|5999|medium
+misc_net|Handy|5999|small
+misc_net|Housecall Pro|5999|small
+misc_net|HomeAdvisor|5999|large
+misc_net|DocuSign|5999|medium
+misc_net|Adobe Sign|5999|small
+misc_net|Dropbox|5999|small
+misc_net|Google Workspace|5999|large
+misc_net|Microsoft 365|5999|small
+misc_pos|Dollar General|5999|small
+misc_pos|Dollar Tree|5999|small
+misc_pos|Five Below|5999|medium
+misc_pos|Big Lots|5999|medium
+misc_pos|Tuesday Morning|5999|small
+misc_pos|Ollie's Bargain Outlet|5999|small
+misc_pos|99 Cents Only|5999|small
+misc_pos|Family Dollar|5999|small
+misc_pos|Hallmark|5999|small
+misc_pos|Yankee Candle|5999|small
+misc_pos|Bath and Body Works|5999|small
+misc_pos|Spencer's Gifts|5999|small
+misc_pos|Hot Topic|5999|medium
+misc_pos|BoxLunch|5999|small
+misc_pos|FYE|5999|medium
+misc_pos|GameStop|5999|large
+misc_pos|Half Price Books|5999|large
+misc_pos|Goodwill|5999|medium
+misc_pos|Salvation Army|5999|large
+misc_pos|Savers|5999|large
+misc_pos|Value Village|5999|medium
+misc_pos|Buffalo Exchange|5999|small
+misc_pos|Plato's Closet|5999|small
+misc_pos|Once Upon A Child|5999|small
+misc_pos|Habitat ReStore|5999|small
+misc_pos|Michaels|5999|small
+misc_pos|Hobby Lobby|5999|medium
+misc_pos|JOANN Fabrics|5999|large
+misc_pos|Blick Art Materials|5999|medium
+misc_pos|AC Moore|5999|small
+misc_pos|Office Depot|5999|large
+misc_pos|Staples|5999|small
+misc_pos|FedEx Office|5999|small
+misc_pos|UPS Store|5999|small
+misc_pos|Batteries Plus Bulbs|5999|medium
+misc_pos|True Value|5999|medium
+misc_pos|Ace Hardware|5999|medium
+misc_pos|Do It Best|5999|medium
+misc_pos|Tractor Supply Co|5999|small
+misc_pos|Northern Tool|5999|small
+misc_pos|Harbor Freight Tools|5999|medium
+misc_pos|Fastenal|5999|small
+misc_pos|Grainger|5999|small
+misc_pos|Uline|5999|small
+misc_pos|Container Store|5999|medium
+misc_pos|World Market|5999|small
+misc_pos|Pier 1 Imports|5999|large
+misc_pos|HomeGoods|5999|small
+misc_pos|Marshalls|5999|small
+misc_pos|TJ Maxx|5999|small
+misc_pos|Ross Dress for Less|5999|medium
+misc_pos|Burlington|5999|small
+misc_pos|Nordstrom Rack|5999|medium
+misc_pos|Saks OFF 5TH|5999|medium
+misc_pos|Sierra Trading Post|5999|small
+misc_pos|Stein Mart|5999|medium
+misc_pos|Bealls Outlet|5999|small
+misc_pos|Gabe's|5999|medium
+misc_pos|Dirt Cheap|5999|large
+misc_pos|National Wholesale Liquidators|5999|medium
+misc_pos|Big 5 Sporting Goods|5999|medium
+misc_pos|Dunham's Sports|5999|medium
+misc_pos|MINISO|5999|small
+misc_pos|Daiso|5999|small
+misc_pos|Flying Tiger Copenhagen|5999|small
+shopping_net|Amazon|5311|large
+shopping_net|Walmart.com|5311|large
+shopping_net|Target.com|5311|small
+shopping_net|BestBuy.com|5311|small
+shopping_net|Macys.com|5311|small
+shopping_net|Nordstrom.com|5311|small
+shopping_net|Kohls.com|5311|small
+shopping_net|JCPenney.com|5311|large
+shopping_net|Gap.com|5311|large
+shopping_net|Old Navy Online|5311|small
+shopping_net|Banana Republic Online|5311|medium
+shopping_net|H&M Online|5311|small
+shopping_net|Zara.com|5311|large
+shopping_net|ASOS|5311|small
+shopping_net|SHEIN|5311|small
+shopping_net|Nike.com|5311|medium
+shopping_net|Adidas.com|5311|medium
+shopping_net|Under Armour Online|5311|medium
+shopping_net|Lululemon.com|5311|small
+shopping_net|Athleta.com|5311|small
+shopping_net|Anthropologie.com|5311|medium
+shopping_net|Free People Online|5311|small
+shopping_net|Urban Outfitters.com|5311|medium
+shopping_net|J.Crew.com|5311|small
+shopping_net|Brooks Brothers Online|5311|small
+shopping_net|Ralph Lauren Online|5311|small
+shopping_net|Calvin Klein Online|5311|small
+shopping_net|Tommy Hilfiger Online|5311|small
+shopping_net|Michael Kors Online|5311|small
+shopping_net|Coach.com|5311|small
+shopping_net|Kate Spade Online|5311|small
+shopping_net|Tory Burch Online|5311|medium
+shopping_net|Tiffany.com|5311|medium
+shopping_net|Blue Nile|5311|large
+shopping_net|James Allen|5311|small
+shopping_net|Brilliant Earth|5311|medium
+shopping_net|Warby Parker Online|5311|large
+shopping_net|Glossier|5311|medium
+shopping_net|Fenty Beauty Online|5311|small
+shopping_net|Sephora.com|5311|large
+shopping_net|Ulta.com|5311|medium
+shopping_net|ColourPop|5311|small
+shopping_net|Morphe|5311|large
+shopping_net|Charlotte Tilbury Online|5311|small
+shopping_net|MAC Cosmetics Online|5311|small
+shopping_net|Chewy.com|5311|small
+shopping_net|Zappos.com|5311|small
+shopping_net|6pm.com|5311|small
+shopping_net|Revolve|5311|large
+shopping_net|Abercrombie.com|5311|medium
+shopping_net|Hollister.com|5311|small
+shopping_net|American Eagle Online|5311|small
+shopping_net|Express.com|5311|small
+shopping_net|Ann Taylor Online|5311|medium
+shopping_net|LOFT Online|5311|small
+shopping_net|Everlane|5311|large
+shopping_net|Allbirds|5311|small
+shopping_net|Bombas|5311|small
+shopping_net|Away Luggage|5311|large
+shopping_net|Casper.com|5311|large
+shopping_net|Purple Mattress Online|5311|small
+shopping_net|Brooklinen|5311|medium
+shopping_net|Parachute Home|5311|medium
+shopping_net|West Elm Online|5311|small
+shopping_net|Crate and Barrel Online|5311|small
+shopping_pos|Walmart|5311|small
+shopping_pos|Target|5311|large
+shopping_pos|Best Buy|5311|medium
+shopping_pos|Macy's|5311|small
+shopping_pos|Nordstrom|5311|small
+shopping_pos|Kohl's|5311|small
+shopping_pos|JCPenney|5311|small
+shopping_pos|TJ Maxx|5311|large
+shopping_pos|Marshalls|5311|small
+shopping_pos|Ross|5311|large
+shopping_pos|Burlington Coat Factory|5311|small
+shopping_pos|HomeGoods|5311|small
+shopping_pos|Gap|5311|large
+shopping_pos|Old Navy|5311|medium
+shopping_pos|Banana Republic|5311|medium
+shopping_pos|H&M|5311|large
+shopping_pos|Zara|5311|medium
+shopping_pos|Forever 21|5311|medium
+shopping_pos|Nike Store|5311|small
+shopping_pos|Adidas Store|5311|small
+shopping_pos|Under Armour|5311|small
+shopping_pos|Lululemon|5311|large
+shopping_pos|Foot Locker|5311|small
+shopping_pos|Finish Line|5311|medium
+shopping_pos|Dick's Sporting Goods|5311|small
+shopping_pos|REI|5311|small
+shopping_pos|Academy Sports|5311|medium
+shopping_pos|Cabela's|5311|medium
+shopping_pos|Bass Pro Shops|5311|small
+shopping_pos|Scheels|5311|medium
+shopping_pos|Anthropologie|5311|small
+shopping_pos|Free People|5311|small
+shopping_pos|Urban Outfitters|5311|small
+shopping_pos|J.Crew|5311|small
+shopping_pos|Brooks Brothers|5311|small
+shopping_pos|Ralph Lauren|5311|small
+shopping_pos|Calvin Klein|5311|small
+shopping_pos|Tommy Hilfiger|5311|large
+shopping_pos|Michael Kors|5311|small
+shopping_pos|Coach|5311|large
+shopping_pos|Kate Spade|5311|small
+shopping_pos|Tory Burch|5311|small
+shopping_pos|Tiffany and Co|5311|large
+shopping_pos|Zales|5311|medium
+shopping_pos|Kay Jewelers|5311|small
+shopping_pos|Jared|5311|medium
+shopping_pos|Pandora|5311|large
+shopping_pos|Swarovski|5311|small
+shopping_pos|Apple Store|5311|small
+shopping_pos|Microsoft Store|5311|small
+shopping_pos|Sephora|5311|small
+shopping_pos|Ulta Beauty|5311|small
+shopping_pos|Bath and Body Works Store|5311|small
+shopping_pos|Victoria's Secret|5311|small
+shopping_pos|Express|5311|large
+shopping_pos|American Eagle|5311|small
+shopping_pos|Abercrombie and Fitch|5311|small
+shopping_pos|Hollister|5311|large
+shopping_pos|Ann Taylor|5311|large
+shopping_pos|LOFT|5311|small
+shopping_pos|Chico's|5311|small
+shopping_pos|White House Black Market|5311|small
+shopping_pos|Torrid|5311|large
+shopping_pos|Lane Bryant|5311|small
+shopping_pos|Cato Fashions|5311|small
+utilities|Pacific Gas and Electric|4900|small
+utilities|Southern California Edison|4900|medium
+utilities|Con Edison|4900|small
+utilities|Duke Energy|4900|small
+utilities|Dominion Energy|4900|medium
+utilities|Southern Company|4900|small
+utilities|NextEra Energy|4900|small
+utilities|American Electric Power|4900|small
+utilities|Exelon|4900|small
+utilities|Sempra Energy|4900|small
+utilities|Entergy|4900|large
+utilities|Xcel Energy|4900|small
+utilities|WEC Energy Group|4900|small
+utilities|Eversource Energy|4900|small
+utilities|CenterPoint Energy|4900|small
+utilities|Ameren|4900|small
+utilities|Alliant Energy|4900|large
+utilities|Avista Corp|4900|small
+utilities|Black Hills Energy|4900|small
+utilities|Consumers Energy|4900|large
+utilities|DTE Energy|4900|medium
+utilities|Empire District Electric|4900|small
+utilities|FirstEnergy|4900|large
+utilities|Green Mountain Power|4900|medium
+utilities|Hawaiian Electric|4900|small
+utilities|Idaho Power|4900|small
+utilities|Kansas City Power and Light|4900|small
+utilities|Liberty Utilities|4900|small
+utilities|Madison Gas and Electric|4900|small
+utilities|National Grid|4900|medium
+utilities|New England Electric|4900|small
+utilities|Ohio Edison|4900|small
+utilities|Oklahoma Gas and Electric|4900|small
+utilities|Pacific Power|4900|medium
+utilities|PECO Energy|4900|medium
+utilities|Pepco|4900|small
+utilities|Portland General Electric|4900|large
+utilities|Puget Sound Energy|4900|small
+utilities|Rochester Gas and Electric|4900|medium
+utilities|San Diego Gas and Electric|4900|medium
+utilities|AT&T|4900|medium
+utilities|Verizon|4900|small
+utilities|T-Mobile|4900|small
+utilities|Comcast Xfinity|4900|medium
+utilities|Spectrum Charter|4900|small
+utilities|Cox Communications|4900|small
+utilities|CenturyLink|4900|small
+utilities|Frontier Communications|4900|large
+utilities|Windstream|4900|medium
+utilities|Consolidated Communications|4900|small
+utilities|American Water Works|4900|medium
+utilities|California Water Service|4900|medium
+utilities|SJW Group|4900|large
+utilities|Essential Utilities|4900|large
+utilities|Middlesex Water|4900|large
+utilities|Southwest Gas|4900|large
+utilities|Spire Energy|4900|large
+utilities|Atmos Energy|4900|small
+utilities|New Jersey Resources|4900|small
+utilities|ONE Gas|4900|medium
+utilities|Laclede Gas|4900|small
+utilities|Piedmont Natural Gas|4900|large
+utilities|South Union Gas|4900|small
+utilities|Washington Gas|4900|medium
+utilities|Columbia Gas|4900|small
+entertainment|Netflix|7999|large
+entertainment|Hulu|7999|small
+entertainment|Disney Plus|7999|large
+entertainment|HBO Max|7999|small
+entertainment|Amazon Prime Video|7999|medium
+entertainment|Peacock|7999|small
+entertainment|Paramount Plus|7999|large
+entertainment|Apple TV Plus|7999|small
+entertainment|YouTube Premium|7999|small
+entertainment|Spotify|7999|small
+entertainment|Apple Music|7999|large
+entertainment|Pandora|7999|small
+entertainment|Tidal|7999|medium
+entertainment|SiriusXM|7999|small
+entertainment|Audible|7999|small
+entertainment|AMC Theatres|7999|medium
+entertainment|Regal Cinemas|7999|large
+entertainment|Cinemark|7999|small
+entertainment|Alamo Drafthouse|7999|large
+entertainment|Landmark Theatres|7999|large
+entertainment|Fandango|7999|small
+entertainment|Atom Tickets|7999|medium
+entertainment|Ticketmaster|7999|medium
+entertainment|StubHub|7999|small
+entertainment|SeatGeek|7999|small
+entertainment|Live Nation|7999|medium
+entertainment|AXS|7999|small
+entertainment|Eventbrite|7999|small
+entertainment|Vivid Seats|7999|small
+entertainment|TickPick|7999|small
+entertainment|Dave and Busters|7999|medium
+entertainment|Main Event|7999|medium
+entertainment|Topgolf|7999|medium
+entertainment|Bowlero|7999|large
+entertainment|Lucky Strike|7999|small
+entertainment|Round1|7999|medium
+entertainment|Chuck E Cheese|7999|medium
+entertainment|Andretti Indoor Karting|7999|medium
+entertainment|K1 Speed|7999|large
+entertainment|iFLY Indoor Skydiving|7999|small
+entertainment|Escape Room|7999|medium
+entertainment|Meow Wolf|7999|medium
+entertainment|Six Flags|7999|large
+entertainment|Cedar Fair|7999|small
+entertainment|Universal Studios|7999|large
+entertainment|Walt Disney World|7999|small
+entertainment|SeaWorld|7999|small
+entertainment|Legoland|7999|medium
+entertainment|Busch Gardens|7999|large
+entertainment|Knott's Berry Farm|7999|large
+entertainment|Xbox Game Pass|7999|medium
+entertainment|PlayStation Plus|7999|small
+entertainment|Nintendo eShop|7999|small
+entertainment|Steam|7999|large
+entertainment|Epic Games Store|7999|small
+entertainment|Twitch|7999|large
+entertainment|Discord Nitro|7999|small
+entertainment|Crunchyroll|7999|small
+entertainment|Funimation|7999|small
+entertainment|Kindle Unlimited|7999|small
+entertainment|Scribd|7999|small
+entertainment|MasterClass|7999|small
+entertainment|Skillshare|7999|small
+entertainment|Coursera|7999|medium
+entertainment|Udemy|7999|medium
+food_dining|McDonald's|5812|large
+food_dining|Starbucks|5812|small
+food_dining|Chick-fil-A|5812|medium
+food_dining|Taco Bell|5812|medium
+food_dining|Wendy's|5812|large
+food_dining|Burger King|5812|medium
+food_dining|Subway|5812|small
+food_dining|Domino's Pizza|5812|large
+food_dining|Pizza Hut|5812|large
+food_dining|Papa John's|5812|small
+food_dining|Chipotle|5812|medium
+food_dining|Panera Bread|5812|small
+food_dining|Panda Express|5812|small
+food_dining|Popeyes|5812|small
+food_dining|Sonic Drive-In|5812|large
+food_dining|Arby's|5812|large
+food_dining|Jack in the Box|5812|small
+food_dining|Whataburger|5812|large
+food_dining|Five Guys|5812|large
+food_dining|In-N-Out Burger|5812|small
+food_dining|Raising Cane's|5812|large
+food_dining|Wingstop|5812|medium
+food_dining|Buffalo Wild Wings|5812|small
+food_dining|Zaxby's|5812|small
+food_dining|Culver's|5812|large
+food_dining|Shake Shack|5812|medium
+food_dining|Chili's|5812|medium
+food_dining|Applebee's|5812|small
+food_dining|Olive Garden|5812|medium
+food_dining|Red Lobster|5812|small
+food_dining|Outback Steakhouse|5812|small
+food_dining|Texas Roadhouse|5812|medium
+food_dining|Longhorn Steakhouse|5812|small
+food_dining|Cracker Barrel|5812|medium
+food_dining|Denny's|5812|large
+food_dining|IHOP|5812|medium
+food_dining|Waffle House|5812|medium
+food_dining|Bob Evans|5812|medium
+food_dining|Golden Corral|5812|small
+food_dining|The Cheesecake Factory|5812|large
+food_dining|P.F. Chang's|5812|medium
+food_dining|Red Robin|5812|medium
+food_dining|TGI Friday's|5812|large
+food_dining|BJ's Restaurant|5812|medium
+food_dining|Yard House|5812|medium
+food_dining|Noodles and Company|5812|medium
+food_dining|Firehouse Subs|5812|medium
+food_dining|Jimmy John's|5812|small
+food_dining|Jersey Mike's|5812|large
+food_dining|Potbelly|5812|medium
+food_dining|DoorDash|5812|medium
+food_dining|Uber Eats|5812|small
+food_dining|Grubhub|5812|large
+food_dining|Postmates|5812|small
+food_dining|Seamless|5812|large
+food_dining|Dunkin Donuts|5812|small
+food_dining|Krispy Kreme|5812|large
+food_dining|Tim Hortons|5812|large
+food_dining|Smoothie King|5812|medium
+food_dining|Jamba Juice|5812|medium
+food_dining|Tropical Smoothie Cafe|5812|large
+food_dining|Dutch Bros Coffee|5812|small
+food_dining|Peet's Coffee|5812|small
+food_dining|Caribou Coffee|5812|medium
+food_dining|Biggby Coffee|5812|small
+health_fitness|Planet Fitness|7997|large
+health_fitness|LA Fitness|7997|small
+health_fitness|24 Hour Fitness|7997|small
+health_fitness|Gold's Gym|7997|small
+health_fitness|Anytime Fitness|7997|small
+health_fitness|Equinox|7997|small
+health_fitness|Lifetime Fitness|7997|medium
+health_fitness|YMCA|7997|small
+health_fitness|Orangetheory Fitness|7997|small
+health_fitness|CrossFit|7997|small
+health_fitness|SoulCycle|7997|small
+health_fitness|Peloton|7997|small
+health_fitness|F45 Training|7997|large
+health_fitness|Blink Fitness|7997|small
+health_fitness|Crunch Fitness|7997|large
+health_fitness|Snap Fitness|7997|small
+health_fitness|Club Fitness|7997|small
+health_fitness|World Gym|7997|medium
+health_fitness|Retro Fitness|7997|small
+health_fitness|EOS Fitness|7997|small
+health_fitness|Curves|7997|medium
+health_fitness|Jazzercise|7997|medium
+health_fitness|Pure Barre|7997|medium
+health_fitness|Barry's Bootcamp|7997|small
+health_fitness|CorePower Yoga|7997|small
+health_fitness|YogaWorks|7997|medium
+health_fitness|Hot Yoga Inc|7997|small
+health_fitness|CycleBar|7997|large
+health_fitness|StretchLab|7997|medium
+health_fitness|Row House|7997|large
+health_fitness|Club Pilates|7997|small
+health_fitness|Burn Boot Camp|7997|large
+health_fitness|Title Boxing Club|7997|medium
+health_fitness|9Round Fitness|7997|small
+health_fitness|Rumble Boxing|7997|medium
+health_fitness|GNC|7997|small
+health_fitness|Vitamin Shoppe|7997|small
+health_fitness|Complete Nutrition|7997|small
+health_fitness|Bodybuilding.com|7997|large
+health_fitness|MyProtein|7997|small
+health_fitness|Optimum Nutrition|7997|medium
+health_fitness|Cellucor|7997|medium
+health_fitness|Garden of Life|7997|large
+health_fitness|Nature Made|7997|large
+health_fitness|One A Day|7997|medium
+health_fitness|Centrum|7997|medium
+health_fitness|Nordic Naturals|7997|small
+health_fitness|NOW Foods|7997|medium
+health_fitness|Life Extension|7997|small
+health_fitness|Nutraceutix|7997|small
+health_fitness|Fitbit Premium|7997|medium
+health_fitness|Apple Fitness Plus|7997|medium
+health_fitness|Beachbody|7997|small
+health_fitness|Calm App|7997|small
+health_fitness|Headspace|7997|small
+health_fitness|Noom|7997|large
+health_fitness|WW (Weight Watchers)|7997|large
+health_fitness|Jenny Craig|7997|small
+health_fitness|Nutrisystem|7997|large
+health_fitness|Herbalife|7997|small
+health_fitness|WHOOP|7997|medium
+health_fitness|Garmin Connect|7997|small
+health_fitness|Nike Training Club|7997|medium
+health_fitness|Strava Premium|7997|medium
+health_fitness|MapMyRun Plus|7997|small
+home|Home Depot|5712|small
+home|Lowe's|5712|medium
+home|Menards|5712|medium
+home|Ace Hardware Store|5712|large
+home|True Value Hardware|5712|small
+home|Sherwin-Williams|5712|small
+home|Benjamin Moore|5712|large
+home|PPG Paints|5712|medium
+home|Behr Paint|5712|small
+home|Valspar|5712|medium
+home|IKEA|5712|small
+home|Pottery Barn|5712|small
+home|Crate and Barrel|5712|small
+home|West Elm|5712|small
+home|Restoration Hardware|5712|small
+home|Pier 1|5712|small
+home|World Market Home|5712|medium
+home|Z Gallerie|5712|small
+home|Ethan Allen|5712|small
+home|Havertys|5712|large
+home|Ashley Furniture|5712|small
+home|Rooms To Go|5712|small
+home|La-Z-Boy|5712|large
+home|Bassett Furniture|5712|medium
+home|Arhaus|5712|small
+home|Williams-Sonoma|5712|small
+home|Sur La Table|5712|medium
+home|Bed Bath and Beyond|5712|small
+home|Pier 1 Imports Home|5712|large
+home|Pottery Barn Kids|5712|medium
+home|Wayfair Home|5712|small
+home|Overstock Home|5712|small
+home|Amazon Home|5712|small
+home|Target Home|5712|large
+home|Walmart Home|5712|small
+home|Floor and Decor|5712|large
+home|Lumber Liquidators|5712|large
+home|Empire Today|5712|small
+home|Stanley Steemer|5712|large
+home|ServPro|5712|small
+home|Orkin|5712|small
+home|Terminix|5712|small
+home|Rentokil|5712|small
+home|ABC Home and Commercial|5712|medium
+home|HomeTeam Pest Defense|5712|small
+home|ADT Security|5712|small
+home|SimpliSafe|5712|small
+home|Ring|5712|medium
+home|Vivint|5712|large
+home|Brinks Home Security|5712|small
+home|Roto-Rooter|5712|medium
+home|Mr. Rooter|5712|small
+home|Benjamin Franklin Plumbing|5712|medium
+home|One Hour Heating|5712|large
+home|Aire Serv|5712|small
+home|Mr. Electric|5712|large
+home|Molly Maid|5712|small
+home|Merry Maids|5712|small
+home|The Maids|5712|medium
+home|MaidPro|5712|medium
+home|Coit Cleaning|5712|large
+home|Sears Home Services|5712|large
+home|Home Advisor Services|5712|small
+home|Thumbtack Home|5712|large
+home|Angi Home Services|5712|small
+kids_pets|Toys R Us|5945|small
+kids_pets|Build-A-Bear Workshop|5945|small
+kids_pets|The LEGO Store|5945|medium
+kids_pets|Disney Store|5945|small
+kids_pets|American Girl|5945|small
+kids_pets|Mattel Shop|5945|medium
+kids_pets|Hasbro Toy Shop|5945|large
+kids_pets|Learning Express Toys|5945|small
+kids_pets|FAO Schwarz|5945|small
+kids_pets|Melissa and Doug|5945|large
+kids_pets|Carter's|5945|small
+kids_pets|OshKosh B'Gosh|5945|small
+kids_pets|Children's Place|5945|medium
+kids_pets|Gymboree|5945|large
+kids_pets|Justice|5945|large
+kids_pets|Pottery Barn Kids Store|5945|small
+kids_pets|buybuy BABY|5945|small
+kids_pets|Once Upon a Child Store|5945|large
+kids_pets|Kid to Kid|5945|large
+kids_pets|Plato's Closet Kids|5945|small
+kids_pets|Great Wolf Lodge|5945|large
+kids_pets|Legoland Discovery Center|5945|medium
+kids_pets|Crayola Experience|5945|small
+kids_pets|KidZania|5945|medium
+kids_pets|Sky Zone|5945|small
+kids_pets|Pump It Up|5945|small
+kids_pets|Little Gym|5945|medium
+kids_pets|Gymboree Play and Music|5945|medium
+kids_pets|My Gym|5945|large
+kids_pets|Goldfish Swim School|5945|small
+kids_pets|PetSmart|5945|small
+kids_pets|Petco|5945|medium
+kids_pets|Pet Supplies Plus|5945|large
+kids_pets|Pet Supermarket|5945|small
+kids_pets|Hollywood Feed|5945|small
+kids_pets|BarkBox|5945|medium
+kids_pets|Chewy Pets|5945|medium
+kids_pets|PetFlow|5945|small
+kids_pets|1-800-PetMeds|5945|medium
+kids_pets|VetRxDirect|5945|small
+kids_pets|Banfield Pet Hospital|5945|large
+kids_pets|VCA Animal Hospitals|5945|medium
+kids_pets|BluePearl Specialty|5945|large
+kids_pets|Camp Bow Wow|5945|small
+kids_pets|Dogtopia|5945|medium
+kids_pets|PetSuites|5945|small
+kids_pets|Rover Pet Sitting|5945|large
+kids_pets|Wag Dog Walking|5945|medium
+kids_pets|Fetch Pet Care|5945|large
+kids_pets|National Pet Care|5945|small
+kids_pets|Mud Bay|5945|medium
+kids_pets|Kriser's Natural Pet|5945|medium
+kids_pets|Unleashed by Petco|5945|large
+kids_pets|Wild Birds Unlimited|5945|medium
+kids_pets|Pet Valu|5945|medium
+kids_pets|Kahoots Pet Store|5945|medium
+kids_pets|Chuck and Don's|5945|large
+kids_pets|Loyal Companion|5945|medium
+kids_pets|Healthy Pet Austin|5945|small
+kids_pets|Woof Gang Bakery|5945|small
+kids_pets|Hagen Pet Products|5945|small
+kids_pets|Nylabone|5945|small
+kids_pets|Kong Company|5945|small
+kids_pets|Blue Buffalo Store|5945|medium
+kids_pets|Orvis Pet|5945|small
+personal_care|Sephora Store|7230|large
+personal_care|Ulta Beauty Store|7230|medium
+personal_care|MAC Cosmetics|7230|medium
+personal_care|Clinique|7230|medium
+personal_care|Estee Lauder|7230|large
+personal_care|Lancome|7230|small
+personal_care|Bobbi Brown|7230|small
+personal_care|NARS|7230|small
+personal_care|Too Faced|7230|medium
+personal_care|Benefit Cosmetics|7230|small
+personal_care|Tarte|7230|small
+personal_care|IT Cosmetics|7230|medium
+personal_care|Laura Mercier|7230|small
+personal_care|Bare Minerals|7230|small
+personal_care|Great Clips|7230|small
+personal_care|Supercuts|7230|small
+personal_care|Sport Clips|7230|small
+personal_care|Floyd's 99 Barbershop|7230|medium
+personal_care|Bishops Barbershop|7230|large
+personal_care|Drybar|7230|small
+personal_care|Madison Reed|7230|medium
+personal_care|Regis Salons|7230|small
+personal_care|Fantastic Sams|7230|medium
+personal_care|Cost Cutters|7230|small
+personal_care|SmartStyle|7230|small
+personal_care|Hair Cuttery|7230|small
+personal_care|Salon Lofts|7230|large
+personal_care|Phenix Salon Suites|7230|small
+personal_care|Sola Salon Studios|7230|medium
+personal_care|Massage Envy|7230|medium
+personal_care|Hand and Stone|7230|large
+personal_care|Elements Massage|7230|small
+personal_care|Massage Heights|7230|large
+personal_care|LaVida Massage|7230|medium
+personal_care|European Wax Center|7230|large
+personal_care|Waxing the City|7230|large
+personal_care|Brazil Wax Studio|7230|medium
+personal_care|Uni K Wax|7230|medium
+personal_care|SugaringLA|7230|small
+personal_care|Aspen Dental|7230|small
+personal_care|Heartland Dental|7230|small
+personal_care|Pacific Dental Services|7230|small
+personal_care|Gentle Dental|7230|small
+personal_care|Western Dental|7230|large
+personal_care|Affordable Dentures|7230|small
+personal_care|Smile Direct Club|7230|small
+personal_care|Invisalign Provider|7230|large
+personal_care|ClearChoice Dental|7230|medium
+personal_care|Kois Dental|7230|small
+personal_care|LensCrafters|7230|medium
+personal_care|Pearle Vision|7230|medium
+personal_care|Visionworks|7230|medium
+personal_care|MyEyeDr|7230|small
+personal_care|For Eyes|7230|medium
+personal_care|America's Best Contacts|7230|large
+personal_care|Eyeglass World|7230|medium
+personal_care|Warby Parker Store|7230|small
+personal_care|SEE Eyewear|7230|small
+personal_care|Target Optical|7230|large
+personal_care|Sally Beauty|7230|medium
+personal_care|CosmoProf|7230|small
+personal_care|Ricky's NYC|7230|small
+personal_care|Bluemercury|7230|small
+personal_care|Space NK|7230|small
+travel|Delta Air Lines|4722|small
+travel|United Airlines|4722|large
+travel|American Airlines|4722|small
+travel|Southwest Airlines|4722|small
+travel|JetBlue|4722|small
+travel|Alaska Airlines|4722|large
+travel|Spirit Airlines|4722|medium
+travel|Frontier Airlines|4722|large
+travel|Hawaiian Airlines|4722|large
+travel|Allegiant Air|4722|small
+travel|Marriott Hotels|4722|small
+travel|Hilton Hotels|4722|small
+travel|Hyatt Hotels|4722|large
+travel|IHG Hotels|4722|medium
+travel|Wyndham Hotels|4722|small
+travel|Best Western|4722|large
+travel|Choice Hotels|4722|medium
+travel|Radisson Hotels|4722|large
+travel|Motel 6|4722|medium
+travel|La Quinta|4722|medium
+travel|Airbnb|4722|small
+travel|VRBO|4722|small
+travel|Booking.com|4722|small
+travel|Expedia|4722|small
+travel|Hotels.com|4722|small
+travel|Priceline|4722|small
+travel|Kayak|4722|small
+travel|Hopper|4722|small
+travel|Trivago|4722|small
+travel|Travelocity|4722|large
+travel|Orbitz|4722|medium
+travel|CheapTickets|4722|small
+travel|Trip.com|4722|small
+travel|Agoda|4722|small
+travel|TripAdvisor|4722|small
+travel|Carnival Cruise Line|4722|medium
+travel|Royal Caribbean|4722|small
+travel|Norwegian Cruise Line|4722|large
+travel|Princess Cruises|4722|small
+travel|MSC Cruises|4722|large
+travel|Celebrity Cruises|4722|large
+travel|Holland America Line|4722|medium
+travel|Viking Cruises|4722|small
+travel|Disney Cruise Line|4722|small
+travel|Cunard|4722|medium
+travel|AAA Travel|4722|small
+travel|Costco Travel|4722|medium
+travel|Liberty Travel|4722|medium
+travel|Travel Leaders|4722|medium
+travel|Virtuoso Travel|4722|small
+travel|Samsonite|4722|small
+travel|Tumi|4722|small
+travel|Away Travel|4722|small
+travel|Rimowa|4722|medium
+travel|Travelpro|4722|small
+travel|Global Entry|4722|small
+travel|TSA PreCheck|4722|small
+travel|Clear|4722|medium
+travel|Priority Pass|4722|small
+travel|LoungeBuddy|4722|medium
+travel|Hertz Rental|4722|large
+travel|Avis Rental|4722|large
+travel|Budget Rental|4722|small
+travel|Sixt Rent a Car|4722|small
+travel|Fox Rent A Car|4722|small
