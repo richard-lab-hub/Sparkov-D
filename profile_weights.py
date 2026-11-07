@@ -173,9 +173,17 @@ class Profile:
     def pre_compute_amt_specs(self):
         amt_specs = {}
         for category in self.profile['categories_amt'].keys():
+            cat_info = self.profile['categories_amt'][category]
+            default_min, default_max, default_extreme = CATEGORY_AMT_RANGES.get(category, (1.00, 500.00, 5000.00))
+            min_amt = cat_info.get('min', default_min)
+            max_amt = cat_info.get('max', default_max)
+            extreme_max = cat_info.get('extreme_max', default_extreme)
             amt_specs[category] = {
-                'shape': self.profile['categories_amt'][category]['mean']**2 / self.profile['categories_amt'][category]['stdev']**2,
-                'scale': self.profile['categories_amt'][category]['stdev']**2 / self.profile['categories_amt'][category]['mean']
+                'shape': cat_info['mean']**2 / cat_info['stdev']**2,
+                'scale': cat_info['stdev']**2 / cat_info['mean'],
+                'min': min_amt,
+                'max': max_amt,
+                'extreme_max': extreme_max
             }
         return amt_specs
 
