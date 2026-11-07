@@ -5,6 +5,22 @@ import numpy as np
 from faker import Faker
 from bisect import bisect_left
 
+CATEGORY_AMT_RANGES = {
+    'food_dining': (2.00, 250.00, 1000.00),
+    'grocery_pos': (5.00, 350.00, 1500.00),
+    'grocery_net': (15.00, 300.00, 1200.00),
+    'shopping_pos': (5.00, 800.00, 15000.00),
+    'shopping_net': (5.00, 1200.00, 20000.00),
+    'misc_pos': (2.00, 300.00, 5000.00),
+    'misc_net': (2.00, 400.00, 10000.00),
+    'pharmacy': (3.00, 200.00, 2000.00),
+    'home': (10.00, 2500.00, 35000.00),
+    'kids_pets': (5.00, 400.00, 5000.00),
+    'personal_care': (10.00, 300.00, 3000.00),
+    'gas_transport': (2.00, 120.00, 500.00),
+    'utilities': (25.00, 600.00, 2500.00),
+    'travel': (50.00, 4000.00, 50000.00)
+}
 
 class Profile:
     def __init__(self, profile):
