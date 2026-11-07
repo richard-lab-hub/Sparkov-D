@@ -96,3 +96,33 @@ if __name__ == '__main__':
 
     with Pool() as p:
         p.starmap(datagen_transactions, args_array)
+
+    # Post-processing: Consolidated all non-empty transaction chunks into a single transactions.csv file
+    print("Consolidating transactions into a single output file...")
+    transactions_out_file = os.path.join(out_path, 'transactions.csv')
+    chunk_files = []
+    for arg in args_array:
+        chunk_file = str(arg[4])
+        if chunk_file not in chunk_files:
+            chunk_files.append(chunk_file)
+
+    header_written = False
+    total_tx_count = 0
+    with open(transactions_out_file, 'w') as out_f:
+        for cfile in chunk_files:
+            if os.path.exists(cfile):
+                with open(cfile, 'r') as in_f:
+                    lines = in_f.readlines()
+                    if len(lines) > 1:
+                        if not header_written:
+                            out_f.write(lines[0])
+                            header_written = True
+                        for line in lines[1:]:
+                            if line.strip():
+                                out_f.write(line)
+                                total_tx_count += 1
+                # Clean up individual chunk file
+                os.remove(cfile)
+
+    print(f"Successfully created {transactions_out_file} ({total_tx_count} total transactions) for {num_cust} customers!")
+
