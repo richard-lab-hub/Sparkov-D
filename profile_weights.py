@@ -231,16 +231,10 @@ class Profile:
 
         # randomly sample number of transactions
         num_trans = int((self.end - self.start).days *
-                np.random.randint(self.profile['avg_transactions_per_day']['min'], ## need normal, not uniform
+                np.random.randint(self.profile['avg_transactions_per_day']['min'],
                                   self.profile['avg_transactions_per_day']['max'] + 1))
 
-        # randomly determine if customer is traveling based off of profile travel_pct param
-        # if np.random.uniform() < self.profile['travel_pct']/100:
-        #     is_traveling = True
-        # else:
-        #     is_traveling = False
         travel_max = self.profile['travel_max_dist']
-        # travel_max=1
         is_traveling = False
 
         output = []
@@ -255,17 +249,35 @@ class Profile:
         # get counts for each category
         unique, counts = np.unique(rnds[:,4], return_counts=True)
         # sort by category
-        rnds = rnds[rnds[:,5].argsort()]
+        rnds = rnds[rnds[:,4].argsort()]
         offset = 0
         # for each category get the number of sample amounts
         for i, cat_prop in enumerate(unique):
-            cat_specs = self.amt_specs[self.proportions['categories_wt'][cat_prop]]
+            cat_name = self.proportions['categories_wt'][cat_prop]
+            cat_specs = self.amt_specs[cat_name]
             shape = cat_specs['shape']
             scale = cat_specs['scale']
+            min_amt = cat_specs['min']
+            max_amt = cat_specs['max']
+            extreme_max = cat_specs['extreme_max']
+
             rnd_amts = np.random.gamma(shape, scale, counts[i])
-            # as in previous version, when transactions are under $1, use uniform 1-10 range
-            rnd_amts_lower = np.random.uniform(1.00, 10.00, counts[i])
-            rnds[offset: offset + counts[i], 6] = np.where(rnd_amts < 1, rnd_amts_lower, rnd_amts)
+
+            # Bound standard transaction amounts within category-specific min and max ranges
+            rnd_amts = np.clip(rnd_amts, min_amt, max_amt)
+
+            # Rare extreme high-value outliers (~0.3% probability, e.g. luxury/travel $50k purchases)
+            if extreme_max > max_amt and counts[i] > 0:
+                outlier_mask = np.random.random(counts[i]) < 0.003
+                if np.any(outlier_mask):
+                    num_outliers = np.sum(outlier_mask)
+                    pareto_draws = (np.random.pareto(a=1.5, size=num_outliers) + 1.0)
+                    outlier_amts = max_amt * pareto_draws
+                    rnd_amts[outlier_mask] = np.clip(outlier_amts, max_amt, extreme_max)
+
+            rnd_amts = np.round(rnd_amts, 2)
+
+            rnds[offset: offset + counts[i], 6] = rnd_amts
             offset += counts[i]
 
         fraud_dates = []
